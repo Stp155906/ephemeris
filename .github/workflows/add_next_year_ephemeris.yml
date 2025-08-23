@@ -1,0 +1,35 @@
+name: Add next year's ephemeris JSON
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 6 20 12 *"  # Dec 20 @ 06:00 UTC yearly
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4 requests
+      - name: Generate next-year ephemeris JSON
+        run: |
+          python scripts/generate_next_year_ephemeris.py
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Add ephemeris JSON for next year (auto)"
+            git push
+          fi
