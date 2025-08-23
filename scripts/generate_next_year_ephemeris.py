@@ -15,7 +15,11 @@ import os, re, json, time, calendar, datetime
 import requests
 from bs4 import BeautifulSoup
 
-OUT_DIR = "ephemeris"
+
+# OLD:
+# OUT_DIR = "ephemeris"
+OUT_DIR = "."
+
 
 # Tunables for speed/stability
 TIMEOUT_SECS = 10          # was 25
