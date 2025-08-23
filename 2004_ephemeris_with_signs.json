@@ -1,6 +1,18 @@
 {
   "January": {
     "1": {
+      "Sun": "Capricorn 9 53’",
+      "Moon": "Aries 27 29’",
+      "Mercury": "Sagittarius 28 48’",
+      "Venus": "Aquarius 13 12’",
+      "Mars": "Aries 9 09’",
+      "Jupiter": "Virgo 18 53’",
+      "Saturn": "Cancer 9 45’",
+      "Uranus": "Pisces 0 03’",
+      "Neptune": "Aquarius 11 41’",
+      "Pluto": "Sagittarius 20 29’"
+    },
+    "2": {
       "Sun": "Capricorn 10 54’",
       "Moon": "Taurus 9 23’",
       "Mercury": "Sagittarius 27 58’",
@@ -12,7 +24,7 @@
       "Neptune": "Aquarius 11 43’",
       "Pluto": "Sagittarius 20 31’"
     },
-    "2": {
+    "3": {
       "Sun": "Capricorn 11 55’",
       "Moon": "Taurus 21 11’",
       "Mercury": "Sagittarius 27 17’",
@@ -24,7 +36,7 @@
       "Neptune": "Aquarius 11 45’",
       "Pluto": "Sagittarius 20 34’"
     },
-    "3": {
+    "4": {
       "Sun": "Capricorn 12 56’",
       "Moon": "Gemini 2 57’",
       "Mercury": "Sagittarius 26 47’",
@@ -36,7 +48,7 @@
       "Neptune": "Aquarius 11 47’",
       "Pluto": "Sagittarius 20 36’"
     },
-    "4": {
+    "5": {
       "Sun": "Capricorn 13 58’",
       "Moon": "Gemini 14 46’",
       "Mercury": "Sagittarius 26 27’",
@@ -48,7 +60,7 @@
       "Neptune": "Aquarius 11 49’",
       "Pluto": "Sagittarius 20 38’"
     },
-    "5": {
+    "6": {
       "Sun": "Capricorn 14 59’",
       "Moon": "Gemini 26 40’",
       "Mercury": "Sagittarius 26 17’",
@@ -60,7 +72,7 @@
       "Neptune": "Aquarius 11 51’",
       "Pluto": "Sagittarius 20 40’"
     },
-    "6": {
+    "7": {
       "Sun": "Capricorn 16 00’",
       "Moon": "Cancer 8 43’",
       "Mercury": "Sagittarius 26 16’",
@@ -72,7 +84,7 @@
       "Neptune": "Aquarius 11 53’",
       "Pluto": "Sagittarius 20 42’"
     },
-    "7": {
+    "8": {
       "Sun": "Capricorn 17 01’",
       "Moon": "Cancer 20 55’",
       "Mercury": "Sagittarius 26 24’",
@@ -84,7 +96,7 @@
       "Neptune": "Aquarius 11 55’",
       "Pluto": "Sagittarius 20 44’"
     },
-    "8": {
+    "9": {
       "Sun": "Capricorn 18 02’",
       "Moon": "Leo 3 17’",
       "Mercury": "Sagittarius 26 40’",
@@ -96,7 +108,7 @@
       "Neptune": "Aquarius 11 57’",
       "Pluto": "Sagittarius 20 46’"
     },
-    "9": {
+    "10": {
       "Sun": "Capricorn 19 03’",
       "Moon": "Leo 15 51’",
       "Mercury": "Sagittarius 27 04’",
@@ -108,7 +120,7 @@
       "Neptune": "Aquarius 11 59’",
       "Pluto": "Sagittarius 20 48’"
     },
-    "10": {
+    "11": {
       "Sun": "Capricorn 20 04’",
       "Moon": "Leo 28 35’",
       "Mercury": "Sagittarius 27 34’",
@@ -120,7 +132,7 @@
       "Neptune": "Aquarius 12 01’",
       "Pluto": "Sagittarius 20 50’"
     },
-    "11": {
+    "12": {
       "Sun": "Capricorn 21 05’",
       "Moon": "Virgo 11 31’",
       "Mercury": "Sagittarius 28 10’",
@@ -132,7 +144,7 @@
       "Neptune": "Aquarius 12 04’",
       "Pluto": "Sagittarius 20 53’"
     },
-    "12": {
+    "13": {
       "Sun": "Capricorn 22 07’",
       "Moon": "Virgo 24 39’",
       "Mercury": "Sagittarius 28 51’",
@@ -144,7 +156,7 @@
       "Neptune": "Aquarius 12 06’",
       "Pluto": "Sagittarius 20 55’"
     },
-    "13": {
+    "14": {
       "Sun": "Capricorn 23 08’",
       "Moon": "Libra 8 01’",
       "Mercury": "Sagittarius 29 37’",
@@ -156,7 +168,7 @@
       "Neptune": "Aquarius 12 08’",
       "Pluto": "Sagittarius 20 57’"
     },
-    "14": {
+    "15": {
       "Sun": "Capricorn 24 09’",
       "Moon": "Libra 21 37’",
       "Mercury": "Capricorn 0 27’",
@@ -168,7 +180,7 @@
       "Neptune": "Aquarius 12 10’",
       "Pluto": "Sagittarius 20 59’"
     },
-    "15": {
+    "16": {
       "Sun": "Capricorn 25 10’",
       "Moon": "Scorpio 5 29’",
       "Mercury": "Capricorn 1 22’",
@@ -180,7 +192,7 @@
       "Neptune": "Aquarius 12 12’",
       "Pluto": "Sagittarius 21 01’"
     },
-    "16": {
+    "17": {
       "Sun": "Capricorn 26 11’",
       "Moon": "Scorpio 19 38’",
       "Mercury": "Capricorn 2 19’",
@@ -192,7 +204,7 @@
       "Neptune": "Aquarius 12 15’",
       "Pluto": "Sagittarius 21 02’"
     },
-    "17": {
+    "18": {
       "Sun": "Capricorn 27 12’",
       "Moon": "Sagittarius 4 03’",
       "Mercury": "Capricorn 3 20’",
@@ -204,7 +216,7 @@
       "Neptune": "Aquarius 12 17’",
       "Pluto": "Sagittarius 21 04’"
     },
-    "18": {
+    "19": {
       "Sun": "Capricorn 28 13’",
       "Moon": "Sagittarius 18 40’",
       "Mercury": "Capricorn 4 24’",
@@ -216,7 +228,7 @@
       "Neptune": "Aquarius 12 19’",
       "Pluto": "Sagittarius 21 06’"
     },
-    "19": {
+    "20": {
       "Sun": "Capricorn 29 14’",
       "Moon": "Capricorn 3 27’",
       "Mercury": "Capricorn 5 30’",
@@ -228,7 +240,7 @@
       "Neptune": "Aquarius 12 21’",
       "Pluto": "Sagittarius 21 08’"
     },
-    "20": {
+    "21": {
       "Sun": "Aquarius 0 16’",
       "Moon": "Capricorn 18 15’",
       "Mercury": "Capricorn 6 39’",
@@ -240,7 +252,7 @@
       "Neptune": "Aquarius 12 23’",
       "Pluto": "Sagittarius 21 10’"
     },
-    "21": {
+    "22": {
       "Sun": "Aquarius 1 17’",
       "Moon": "Aquarius 2 56’",
       "Mercury": "Capricorn 7 49’",
@@ -252,7 +264,7 @@
       "Neptune": "Aquarius 12 26’",
       "Pluto": "Sagittarius 21 12’"
     },
-    "22": {
+    "23": {
       "Sun": "Aquarius 2 18’",
       "Moon": "Aquarius 17 22’",
       "Mercury": "Capricorn 9 02’",
@@ -264,7 +276,7 @@
       "Neptune": "Aquarius 12 28’",
       "Pluto": "Sagittarius 21 14’"
     },
-    "23": {
+    "24": {
       "Sun": "Aquarius 3 19’",
       "Moon": "Pisces 1 27’",
       "Mercury": "Capricorn 10 16’",
@@ -276,7 +288,7 @@
       "Neptune": "Aquarius 12 30’",
       "Pluto": "Sagittarius 21 16’"
     },
-    "24": {
+    "25": {
       "Sun": "Aquarius 4 20’",
       "Moon": "Pisces 15 07’",
       "Mercury": "Capricorn 11 32’",
@@ -288,7 +300,7 @@
       "Neptune": "Aquarius 12 32’",
       "Pluto": "Sagittarius 21 17’"
     },
-    "25": {
+    "26": {
       "Sun": "Aquarius 5 21’",
       "Moon": "Pisces 28 19’",
       "Mercury": "Capricorn 12 49’",
@@ -300,7 +312,7 @@
       "Neptune": "Aquarius 12 35’",
       "Pluto": "Sagittarius 21 19’"
     },
-    "26": {
+    "27": {
       "Sun": "Aquarius 6 22’",
       "Moon": "Aries 11 06’",
       "Mercury": "Capricorn 14 08’",
@@ -312,7 +324,7 @@
       "Neptune": "Aquarius 12 37’",
       "Pluto": "Sagittarius 21 21’"
     },
-    "27": {
+    "28": {
       "Sun": "Aquarius 7 23’",
       "Moon": "Aries 23 31’",
       "Mercury": "Capricorn 15 28’",
@@ -324,7 +336,7 @@
       "Neptune": "Aquarius 12 39’",
       "Pluto": "Sagittarius 21 23’"
     },
-    "28": {
+    "29": {
       "Sun": "Aquarius 8 24’",
       "Moon": "Taurus 5 38’",
       "Mercury": "Capricorn 16 49’",
@@ -336,7 +348,7 @@
       "Neptune": "Aquarius 12 42’",
       "Pluto": "Sagittarius 21 24’"
     },
-    "29": {
+    "30": {
       "Sun": "Aquarius 9 25’",
       "Moon": "Taurus 17 33’",
       "Mercury": "Capricorn 18 11’",
@@ -348,7 +360,7 @@
       "Neptune": "Aquarius 12 44’",
       "Pluto": "Sagittarius 21 26’"
     },
-    "30": {
+    "31": {
       "Sun": "Aquarius 10 26’",
       "Moon": "Taurus 29 21’",
       "Mercury": "Capricorn 19 34’",
@@ -363,6 +375,18 @@
   },
   "February": {
     "1": {
+      "Sun": "Aquarius 11 27’",
+      "Moon": "Gemini 11 08’",
+      "Mercury": "Capricorn 20 58’",
+      "Venus": "Pisces 20 52’",
+      "Mars": "Aries 28 27’",
+      "Jupiter": "Virgo 17 40’",
+      "Saturn": "Cancer 7 25’",
+      "Uranus": "Pisces 1 35’",
+      "Neptune": "Aquarius 12 48’",
+      "Pluto": "Sagittarius 21 29’"
+    },
+    "2": {
       "Sun": "Aquarius 12 28’",
       "Moon": "Gemini 23 00’",
       "Mercury": "Capricorn 22 24’",
@@ -374,7 +398,7 @@
       "Neptune": "Aquarius 12 51’",
       "Pluto": "Sagittarius 21 31’"
     },
-    "2": {
+    "3": {
       "Sun": "Aquarius 13 28’",
       "Moon": "Cancer 4 59’",
       "Mercury": "Capricorn 23 50’",
@@ -386,7 +410,7 @@
       "Neptune": "Aquarius 12 53’",
       "Pluto": "Sagittarius 21 33’"
     },
-    "3": {
+    "4": {
       "Sun": "Aquarius 14 29’",
       "Moon": "Cancer 17 09’",
       "Mercury": "Capricorn 25 17’",
@@ -398,7 +422,7 @@
       "Neptune": "Aquarius 12 55’",
       "Pluto": "Sagittarius 21 34’"
     },
-    "4": {
+    "5": {
       "Sun": "Aquarius 15 30’",
       "Moon": "Cancer 29 33’",
       "Mercury": "Capricorn 26 45’",
@@ -410,7 +434,7 @@
       "Neptune": "Aquarius 12 57’",
       "Pluto": "Sagittarius 21 36’"
     },
-    "5": {
+    "6": {
       "Sun": "Aquarius 16 31’",
       "Moon": "Leo 12 12’",
       "Mercury": "Capricorn 28 14’",
@@ -422,7 +446,7 @@
       "Neptune": "Aquarius 13 00’",
       "Pluto": "Sagittarius 21 37’"
     },
-    "6": {
+    "7": {
       "Sun": "Aquarius 17 32’",
       "Moon": "Leo 25 05’",
       "Mercury": "Capricorn 29 43’",
@@ -434,7 +458,7 @@
       "Neptune": "Aquarius 13 02’",
       "Pluto": "Sagittarius 21 39’"
     },
-    "7": {
+    "8": {
       "Sun": "Aquarius 18 32’",
       "Moon": "Virgo 8 11’",
       "Mercury": "Aquarius 1 14’",
@@ -446,7 +470,7 @@
       "Neptune": "Aquarius 13 04’",
       "Pluto": "Sagittarius 21 40’"
     },
-    "8": {
+    "9": {
       "Sun": "Aquarius 19 33’",
       "Moon": "Virgo 21 29’",
       "Mercury": "Aquarius 2 45’",
@@ -458,7 +482,7 @@
       "Neptune": "Aquarius 13 07’",
       "Pluto": "Sagittarius 21 42’"
     },
-    "9": {
+    "10": {
       "Sun": "Aquarius 20 34’",
       "Moon": "Libra 4 57’",
       "Mercury": "Aquarius 4 17’",
@@ -470,7 +494,7 @@
       "Neptune": "Aquarius 13 09’",
       "Pluto": "Sagittarius 21 43’"
     },
-    "10": {
+    "11": {
       "Sun": "Aquarius 21 35’",
       "Moon": "Libra 18 34’",
       "Mercury": "Aquarius 5 50’",
@@ -482,7 +506,7 @@
       "Neptune": "Aquarius 13 11’",
       "Pluto": "Sagittarius 21 44’"
     },
-    "11": {
+    "12": {
       "Sun": "Aquarius 22 35’",
       "Moon": "Scorpio 2 19’",
       "Mercury": "Aquarius 7 24’",
@@ -494,7 +518,7 @@
       "Neptune": "Aquarius 13 13’",
       "Pluto": "Sagittarius 21 46’"
     },
-    "12": {
+    "13": {
       "Sun": "Aquarius 23 36’",
       "Moon": "Scorpio 16 13’",
       "Mercury": "Aquarius 8 58’",
@@ -506,7 +530,7 @@
       "Neptune": "Aquarius 13 16’",
       "Pluto": "Sagittarius 21 47’"
     },
-    "13": {
+    "14": {
       "Sun": "Aquarius 24 37’",
       "Moon": "Sagittarius 0 14’",
       "Mercury": "Aquarius 10 34’",
@@ -518,7 +542,7 @@
       "Neptune": "Aquarius 13 18’",
       "Pluto": "Sagittarius 21 48’"
     },
-    "14": {
+    "15": {
       "Sun": "Aquarius 25 37’",
       "Moon": "Sagittarius 14 24’",
       "Mercury": "Aquarius 12 10’",
@@ -530,7 +554,7 @@
       "Neptune": "Aquarius 13 20’",
       "Pluto": "Sagittarius 21 50’"
     },
-    "15": {
+    "16": {
       "Sun": "Aquarius 26 38’",
       "Moon": "Sagittarius 28 40’",
       "Mercury": "Aquarius 13 47’",
@@ -542,7 +566,7 @@
       "Neptune": "Aquarius 13 22’",
       "Pluto": "Sagittarius 21 51’"
     },
-    "16": {
+    "17": {
       "Sun": "Aquarius 27 39’",
       "Moon": "Capricorn 13 00’",
       "Mercury": "Aquarius 15 25’",
@@ -554,7 +578,7 @@
       "Neptune": "Aquarius 13 25’",
       "Pluto": "Sagittarius 21 52’"
     },
-    "17": {
+    "18": {
       "Sun": "Aquarius 28 39’",
       "Moon": "Capricorn 27 20’",
       "Mercury": "Aquarius 17 04’",
@@ -566,7 +590,7 @@
       "Neptune": "Aquarius 13 27’",
       "Pluto": "Sagittarius 21 53’"
     },
-    "18": {
+    "19": {
       "Sun": "Aquarius 29 40’",
       "Moon": "Aquarius 11 36’",
       "Mercury": "Aquarius 18 44’",
@@ -578,7 +602,7 @@
       "Neptune": "Aquarius 13 29’",
       "Pluto": "Sagittarius 21 54’"
     },
-    "19": {
+    "20": {
       "Sun": "Pisces 0 40’",
       "Moon": "Aquarius 25 41’",
       "Mercury": "Aquarius 20 25’",
@@ -590,7 +614,7 @@
       "Neptune": "Aquarius 13 31’",
       "Pluto": "Sagittarius 21 56’"
     },
-    "20": {
+    "21": {
       "Sun": "Pisces 1 41’",
       "Moon": "Pisces 9 29’",
       "Mercury": "Aquarius 22 06’",
@@ -602,7 +626,7 @@
       "Neptune": "Aquarius 13 33’",
       "Pluto": "Sagittarius 21 57’"
     },
-    "21": {
+    "22": {
       "Sun": "Pisces 2 41’",
       "Moon": "Pisces 22 59’",
       "Mercury": "Aquarius 23 49’",
@@ -614,7 +638,7 @@
       "Neptune": "Aquarius 13 36’",
       "Pluto": "Sagittarius 21 58’"
     },
-    "22": {
+    "23": {
       "Sun": "Pisces 3 42’",
       "Moon": "Aries 6 06’",
       "Mercury": "Aquarius 25 32’",
@@ -626,7 +650,7 @@
       "Neptune": "Aquarius 13 38’",
       "Pluto": "Sagittarius 21 59’"
     },
-    "23": {
+    "24": {
       "Sun": "Pisces 4 42’",
       "Moon": "Aries 18 51’",
       "Mercury": "Aquarius 27 17’",
@@ -638,7 +662,7 @@
       "Neptune": "Aquarius 13 40’",
       "Pluto": "Sagittarius 22 00’"
     },
-    "24": {
+    "25": {
       "Sun": "Pisces 5 43’",
       "Moon": "Taurus 1 16’",
       "Mercury": "Aquarius 29 02’",
@@ -650,7 +674,7 @@
       "Neptune": "Aquarius 13 42’",
       "Pluto": "Sagittarius 22 01’"
     },
-    "25": {
+    "26": {
       "Sun": "Pisces 6 43’",
       "Moon": "Taurus 13 25’",
       "Mercury": "Pisces 0 49’",
@@ -662,7 +686,7 @@
       "Neptune": "Aquarius 13 44’",
       "Pluto": "Sagittarius 22 02’"
     },
-    "26": {
+    "27": {
       "Sun": "Pisces 7 43’",
       "Moon": "Taurus 25 22’",
       "Mercury": "Pisces 2 36’",
@@ -674,7 +698,7 @@
       "Neptune": "Aquarius 13 46’",
       "Pluto": "Sagittarius 22 02’"
     },
-    "27": {
+    "28": {
       "Sun": "Pisces 8 44’",
       "Moon": "Gemini 7 12’",
       "Mercury": "Pisces 4 24’",
@@ -686,7 +710,7 @@
       "Neptune": "Aquarius 13 49’",
       "Pluto": "Sagittarius 22 03’"
     },
-    "28": {
+    "29": {
       "Sun": "Pisces 9 44’",
       "Moon": "Gemini 19 00’",
       "Mercury": "Pisces 6 14’",
@@ -701,6 +725,18 @@
   },
   "March": {
     "1": {
+      "Sun": "Pisces 10 44’",
+      "Moon": "Cancer 0 53’",
+      "Mercury": "Pisces 8 04’",
+      "Venus": "Aries 24 40’",
+      "Mars": "Taurus 16 58’",
+      "Jupiter": "Virgo 14 22’",
+      "Saturn": "Cancer 6 19’",
+      "Uranus": "Pisces 3 14’",
+      "Neptune": "Aquarius 13 53’",
+      "Pluto": "Sagittarius 22 05’"
+    },
+    "2": {
       "Sun": "Pisces 11 44’",
       "Moon": "Cancer 12 55’",
       "Mercury": "Pisces 9 55’",
@@ -712,7 +748,7 @@
       "Neptune": "Aquarius 13 55’",
       "Pluto": "Sagittarius 22 06’"
     },
-    "2": {
+    "3": {
       "Sun": "Pisces 12 44’",
       "Moon": "Cancer 25 10’",
       "Mercury": "Pisces 11 48’",
@@ -724,7 +760,7 @@
       "Neptune": "Aquarius 13 57’",
       "Pluto": "Sagittarius 22 06’"
     },
-    "3": {
+    "4": {
       "Sun": "Pisces 13 45’",
       "Moon": "Leo 7 42’",
       "Mercury": "Pisces 13 41’",
@@ -736,7 +772,7 @@
       "Neptune": "Aquarius 13 59’",
       "Pluto": "Sagittarius 22 07’"
     },
-    "4": {
+    "5": {
       "Sun": "Pisces 14 45’",
       "Moon": "Leo 20 33’",
       "Mercury": "Pisces 15 35’",
@@ -748,7 +784,7 @@
       "Neptune": "Aquarius 14 01’",
       "Pluto": "Sagittarius 22 08’"
     },
-    "5": {
+    "6": {
       "Sun": "Pisces 15 45’",
       "Moon": "Virgo 3 42’",
       "Mercury": "Pisces 17 30’",
@@ -760,7 +796,7 @@
       "Neptune": "Aquarius 14 03’",
       "Pluto": "Sagittarius 22 08’"
     },
-    "6": {
+    "7": {
       "Sun": "Pisces 16 45’",
       "Moon": "Virgo 17 09’",
       "Mercury": "Pisces 19 25’",
@@ -772,7 +808,7 @@
       "Neptune": "Aquarius 14 05’",
       "Pluto": "Sagittarius 22 09’"
     },
-    "7": {
+    "8": {
       "Sun": "Pisces 17 45’",
       "Moon": "Libra 0 51’",
       "Mercury": "Pisces 21 22’",
@@ -784,7 +820,7 @@
       "Neptune": "Aquarius 14 07’",
       "Pluto": "Sagittarius 22 10’"
     },
-    "8": {
+    "9": {
       "Sun": "Pisces 18 45’",
       "Moon": "Libra 14 45’",
       "Mercury": "Pisces 23 19’",
@@ -796,7 +832,7 @@
       "Neptune": "Aquarius 14 09’",
       "Pluto": "Sagittarius 22 10’"
     },
-    "9": {
+    "10": {
       "Sun": "Pisces 19 45’",
       "Moon": "Libra 28 47’",
       "Mercury": "Pisces 25 16’",
@@ -808,7 +844,7 @@
       "Neptune": "Aquarius 14 11’",
       "Pluto": "Sagittarius 22 11’"
     },
-    "10": {
+    "11": {
       "Sun": "Pisces 20 45’",
       "Moon": "Scorpio 12 55’",
       "Mercury": "Pisces 27 14’",
@@ -820,7 +856,7 @@
       "Neptune": "Aquarius 14 13’",
       "Pluto": "Sagittarius 22 11’"
     },
-    "11": {
+    "12": {
       "Sun": "Pisces 21 44’",
       "Moon": "Scorpio 27 04’",
       "Mercury": "Pisces 29 12’",
@@ -832,7 +868,7 @@
       "Neptune": "Aquarius 14 15’",
       "Pluto": "Sagittarius 22 12’"
     },
-    "12": {
+    "13": {
       "Sun": "Pisces 22 44’",
       "Moon": "Sagittarius 11 14’",
       "Mercury": "Aries 1 09’",
@@ -844,7 +880,7 @@
       "Neptune": "Aquarius 14 17’",
       "Pluto": "Sagittarius 22 12’"
     },
-    "13": {
+    "14": {
       "Sun": "Pisces 23 44’",
       "Moon": "Sagittarius 25 22’",
       "Mercury": "Aries 3 07’",
@@ -856,7 +892,7 @@
       "Neptune": "Aquarius 14 18’",
       "Pluto": "Sagittarius 22 12’"
     },
-    "14": {
+    "15": {
       "Sun": "Pisces 24 44’",
       "Moon": "Capricorn 9 28’",
       "Mercury": "Aries 5 03’",
@@ -868,7 +904,7 @@
       "Neptune": "Aquarius 14 20’",
       "Pluto": "Sagittarius 22 13’"
     },
-    "15": {
+    "16": {
       "Sun": "Pisces 25 44’",
       "Moon": "Capricorn 23 30’",
       "Mercury": "Aries 6 59’",
@@ -880,7 +916,7 @@
       "Neptune": "Aquarius 14 22’",
       "Pluto": "Sagittarius 22 13’"
     },
-    "16": {
+    "17": {
       "Sun": "Pisces 26 44’",
       "Moon": "Aquarius 7 25’",
       "Mercury": "Aries 8 53’",
@@ -892,7 +928,7 @@
       "Neptune": "Aquarius 14 24’",
       "Pluto": "Sagittarius 22 13’"
     },
-    "17": {
+    "18": {
       "Sun": "Pisces 27 43’",
       "Moon": "Aquarius 21 13’",
       "Mercury": "Aries 10 45’",
@@ -904,7 +940,7 @@
       "Neptune": "Aquarius 14 26’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "18": {
+    "19": {
       "Sun": "Pisces 28 43’",
       "Moon": "Pisces 4 50’",
       "Mercury": "Aries 12 36’",
@@ -916,7 +952,7 @@
       "Neptune": "Aquarius 14 28’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "19": {
+    "20": {
       "Sun": "Pisces 29 43’",
       "Moon": "Pisces 18 13’",
       "Mercury": "Aries 14 23’",
@@ -928,7 +964,7 @@
       "Neptune": "Aquarius 14 29’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "20": {
+    "21": {
       "Sun": "Aries 0 42’",
       "Moon": "Aries 1 22’",
       "Mercury": "Aries 16 08’",
@@ -940,7 +976,7 @@
       "Neptune": "Aquarius 14 31’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "21": {
+    "22": {
       "Sun": "Aries 1 42’",
       "Moon": "Aries 14 13’",
       "Mercury": "Aries 17 49’",
@@ -952,7 +988,7 @@
       "Neptune": "Aquarius 14 33’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "22": {
+    "23": {
       "Sun": "Aries 2 41’",
       "Moon": "Aries 26 48’",
       "Mercury": "Aries 19 26’",
@@ -964,7 +1000,7 @@
       "Neptune": "Aquarius 14 34’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "23": {
+    "24": {
       "Sun": "Aries 3 41’",
       "Moon": "Taurus 9 08’",
       "Mercury": "Aries 20 58’",
@@ -976,7 +1012,7 @@
       "Neptune": "Aquarius 14 36’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "24": {
+    "25": {
       "Sun": "Aries 4 40’",
       "Moon": "Taurus 21 14’",
       "Mercury": "Aries 22 26’",
@@ -988,7 +1024,7 @@
       "Neptune": "Aquarius 14 38’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "25": {
+    "26": {
       "Sun": "Aries 5 40’",
       "Moon": "Gemini 3 10’",
       "Mercury": "Aries 23 49’",
@@ -1000,7 +1036,7 @@
       "Neptune": "Aquarius 14 39’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "26": {
+    "27": {
       "Sun": "Aries 6 39’",
       "Moon": "Gemini 15 01’",
       "Mercury": "Aries 25 05’",
@@ -1012,7 +1048,7 @@
       "Neptune": "Aquarius 14 41’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "27": {
+    "28": {
       "Sun": "Aries 7 39’",
       "Moon": "Gemini 26 50’",
       "Mercury": "Aries 26 16’",
@@ -1024,7 +1060,7 @@
       "Neptune": "Aquarius 14 42’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "28": {
+    "29": {
       "Sun": "Aries 8 38’",
       "Moon": "Cancer 8 43’",
       "Mercury": "Aries 27 21’",
@@ -1036,7 +1072,7 @@
       "Neptune": "Aquarius 14 44’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "29": {
+    "30": {
       "Sun": "Aries 9 37’",
       "Moon": "Cancer 20 45’",
       "Mercury": "Aries 28 19’",
@@ -1048,7 +1084,7 @@
       "Neptune": "Aquarius 14 45’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "30": {
+    "31": {
       "Sun": "Aries 10 36’",
       "Moon": "Leo 3 01’",
       "Mercury": "Aries 29 11’",
@@ -1063,6 +1099,18 @@
   },
   "April": {
     "1": {
+      "Sun": "Aries 11 36’",
+      "Moon": "Leo 15 35’",
+      "Mercury": "Aries 29 55’",
+      "Venus": "Taurus 27 29’",
+      "Mars": "Gemini 6 50’",
+      "Jupiter": "Virgo 10 38’",
+      "Saturn": "Cancer 6 49’",
+      "Uranus": "Pisces 4 54’",
+      "Neptune": "Aquarius 14 48’",
+      "Pluto": "Sagittarius 22 13’"
+    },
+    "2": {
       "Sun": "Aries 12 35’",
       "Moon": "Leo 28 29’",
       "Mercury": "Taurus 0 33’",
@@ -1074,7 +1122,7 @@
       "Neptune": "Aquarius 14 50’",
       "Pluto": "Sagittarius 22 13’"
     },
-    "2": {
+    "3": {
       "Sun": "Aries 13 34’",
       "Moon": "Virgo 11 46’",
       "Mercury": "Taurus 1 04’",
@@ -1086,7 +1134,7 @@
       "Neptune": "Aquarius 14 51’",
       "Pluto": "Sagittarius 22 13’"
     },
-    "3": {
+    "4": {
       "Sun": "Aries 14 33’",
       "Moon": "Virgo 25 26’",
       "Mercury": "Taurus 1 27’",
@@ -1098,7 +1146,7 @@
       "Neptune": "Aquarius 14 53’",
       "Pluto": "Sagittarius 22 13’"
     },
-    "4": {
+    "5": {
       "Sun": "Aries 15 32’",
       "Moon": "Libra 9 27’",
       "Mercury": "Taurus 1 43’",
@@ -1110,7 +1158,7 @@
       "Neptune": "Aquarius 14 54’",
       "Pluto": "Sagittarius 22 12’"
     },
-    "5": {
+    "6": {
       "Sun": "Aries 16 31’",
       "Moon": "Libra 23 44’",
       "Mercury": "Taurus 1 53’",
@@ -1122,7 +1170,7 @@
       "Neptune": "Aquarius 14 55’",
       "Pluto": "Sagittarius 22 12’"
     },
-    "6": {
+    "7": {
       "Sun": "Aries 17 30’",
       "Moon": "Scorpio 8 13’",
       "Mercury": "Taurus 1 55’",
@@ -1134,7 +1182,7 @@
       "Neptune": "Aquarius 14 57’",
       "Pluto": "Sagittarius 22 11’"
     },
-    "7": {
+    "8": {
       "Sun": "Aries 18 29’",
       "Moon": "Scorpio 22 48’",
       "Mercury": "Taurus 1 51’",
@@ -1146,7 +1194,7 @@
       "Neptune": "Aquarius 14 58’",
       "Pluto": "Sagittarius 22 11’"
     },
-    "8": {
+    "9": {
       "Sun": "Aries 19 28’",
       "Moon": "Sagittarius 7 22’",
       "Mercury": "Taurus 1 40’",
@@ -1158,7 +1206,7 @@
       "Neptune": "Aquarius 14 59’",
       "Pluto": "Sagittarius 22 10’"
     },
-    "9": {
+    "10": {
       "Sun": "Aries 20 27’",
       "Moon": "Sagittarius 21 52’",
       "Mercury": "Taurus 1 23’",
@@ -1170,7 +1218,7 @@
       "Neptune": "Aquarius 15 00’",
       "Pluto": "Sagittarius 22 10’"
     },
-    "10": {
+    "11": {
       "Sun": "Aries 21 26’",
       "Moon": "Capricorn 6 13’",
       "Mercury": "Taurus 1 01’",
@@ -1182,7 +1230,7 @@
       "Neptune": "Aquarius 15 01’",
       "Pluto": "Sagittarius 22 09’"
     },
-    "11": {
+    "12": {
       "Sun": "Aries 22 25’",
       "Moon": "Capricorn 20 22’",
       "Mercury": "Taurus 0 33’",
@@ -1194,7 +1242,7 @@
       "Neptune": "Aquarius 15 03’",
       "Pluto": "Sagittarius 22 09’"
     },
-    "12": {
+    "13": {
       "Sun": "Aries 23 24’",
       "Moon": "Aquarius 4 18’",
       "Mercury": "Taurus 0 01’",
@@ -1206,7 +1254,7 @@
       "Neptune": "Aquarius 15 04’",
       "Pluto": "Sagittarius 22 08’"
     },
-    "13": {
+    "14": {
       "Sun": "Aries 24 22’",
       "Moon": "Aquarius 17 59’",
       "Mercury": "Aries 29 26’",
@@ -1218,7 +1266,7 @@
       "Neptune": "Aquarius 15 05’",
       "Pluto": "Sagittarius 22 08’"
     },
-    "14": {
+    "15": {
       "Sun": "Aries 25 21’",
       "Moon": "Pisces 1 26’",
       "Mercury": "Aries 28 47’",
@@ -1230,7 +1278,7 @@
       "Neptune": "Aquarius 15 06’",
       "Pluto": "Sagittarius 22 07’"
     },
-    "15": {
+    "16": {
       "Sun": "Aries 26 20’",
       "Moon": "Pisces 14 39’",
       "Mercury": "Aries 28 06’",
@@ -1242,7 +1290,7 @@
       "Neptune": "Aquarius 15 07’",
       "Pluto": "Sagittarius 22 06’"
     },
-    "16": {
+    "17": {
       "Sun": "Aries 27 19’",
       "Moon": "Pisces 27 38’",
       "Mercury": "Aries 27 23’",
@@ -1254,7 +1302,7 @@
       "Neptune": "Aquarius 15 08’",
       "Pluto": "Sagittarius 22 06’"
     },
-    "17": {
+    "18": {
       "Sun": "Aries 28 17’",
       "Moon": "Aries 10 23’",
       "Mercury": "Aries 26 40’",
@@ -1266,7 +1314,7 @@
       "Neptune": "Aquarius 15 09’",
       "Pluto": "Sagittarius 22 05’"
     },
-    "18": {
+    "19": {
       "Sun": "Aries 29 16’",
       "Moon": "Aries 22 55’",
       "Mercury": "Aries 25 57’",
@@ -1278,7 +1326,7 @@
       "Neptune": "Aquarius 15 10’",
       "Pluto": "Sagittarius 22 04’"
     },
-    "19": {
+    "20": {
       "Sun": "Taurus 0 15’",
       "Moon": "Taurus 5 15’",
       "Mercury": "Aries 25 15’",
@@ -1290,7 +1338,7 @@
       "Neptune": "Aquarius 15 11’",
       "Pluto": "Sagittarius 22 03’"
     },
-    "20": {
+    "21": {
       "Sun": "Taurus 1 13’",
       "Moon": "Taurus 17 25’",
       "Mercury": "Aries 24 34’",
@@ -1302,7 +1350,7 @@
       "Neptune": "Aquarius 15 12’",
       "Pluto": "Sagittarius 22 02’"
     },
-    "21": {
+    "22": {
       "Sun": "Taurus 2 12’",
       "Moon": "Taurus 29 25’",
       "Mercury": "Aries 23 56’",
@@ -1314,7 +1362,7 @@
       "Neptune": "Aquarius 15 12’",
       "Pluto": "Sagittarius 22 02’"
     },
-    "22": {
+    "23": {
       "Sun": "Taurus 3 10’",
       "Moon": "Gemini 11 18’",
       "Mercury": "Aries 23 20’",
@@ -1326,7 +1374,7 @@
       "Neptune": "Aquarius 15 13’",
       "Pluto": "Sagittarius 22 01’"
     },
-    "23": {
+    "24": {
       "Sun": "Taurus 4 09’",
       "Moon": "Gemini 23 08’",
       "Mercury": "Aries 22 48’",
@@ -1338,7 +1386,7 @@
       "Neptune": "Aquarius 15 14’",
       "Pluto": "Sagittarius 22 00’"
     },
-    "24": {
+    "25": {
       "Sun": "Taurus 5 07’",
       "Moon": "Cancer 4 57’",
       "Mercury": "Aries 22 20’",
@@ -1350,7 +1398,7 @@
       "Neptune": "Aquarius 15 15’",
       "Pluto": "Sagittarius 21 59’"
     },
-    "25": {
+    "26": {
       "Sun": "Taurus 6 06’",
       "Moon": "Cancer 16 51’",
       "Mercury": "Aries 21 56’",
@@ -1362,7 +1410,7 @@
       "Neptune": "Aquarius 15 16’",
       "Pluto": "Sagittarius 21 58’"
     },
-    "26": {
+    "27": {
       "Sun": "Taurus 7 04’",
       "Moon": "Cancer 28 52’",
       "Mercury": "Aries 21 37’",
@@ -1374,7 +1422,7 @@
       "Neptune": "Aquarius 15 16’",
       "Pluto": "Sagittarius 21 57’"
     },
-    "27": {
+    "28": {
       "Sun": "Taurus 8 02’",
       "Moon": "Leo 11 06’",
       "Mercury": "Aries 21 22’",
@@ -1386,7 +1434,7 @@
       "Neptune": "Aquarius 15 17’",
       "Pluto": "Sagittarius 21 56’"
     },
-    "28": {
+    "29": {
       "Sun": "Taurus 9 01’",
       "Moon": "Leo 23 36’",
       "Mercury": "Aries 21 12’",
@@ -1398,7 +1446,7 @@
       "Neptune": "Aquarius 15 17’",
       "Pluto": "Sagittarius 21 55’"
     },
-    "29": {
+    "30": {
       "Sun": "Taurus 9 59’",
       "Moon": "Virgo 6 28’",
       "Mercury": "Aries 21 07’",
@@ -1413,6 +1461,18 @@
   },
   "May": {
     "1": {
+      "Sun": "Taurus 10 57’",
+      "Moon": "Virgo 19 44’",
+      "Mercury": "Aries 21 07’",
+      "Venus": "Gemini 21 12’",
+      "Mars": "Gemini 25 57’",
+      "Jupiter": "Virgo 8 56’",
+      "Saturn": "Cancer 8 51’",
+      "Uranus": "Pisces 6 08’",
+      "Neptune": "Aquarius 15 19’",
+      "Pluto": "Sagittarius 21 53’"
+    },
+    "2": {
       "Sun": "Taurus 11 55’",
       "Moon": "Libra 3 26’",
       "Mercury": "Aries 21 12’",
@@ -1424,7 +1484,7 @@
       "Neptune": "Aquarius 15 19’",
       "Pluto": "Sagittarius 21 52’"
     },
-    "2": {
+    "3": {
       "Sun": "Taurus 12 53’",
       "Moon": "Libra 17 33’",
       "Mercury": "Aries 21 21’",
@@ -1436,7 +1496,7 @@
       "Neptune": "Aquarius 15 20’",
       "Pluto": "Sagittarius 21 51’"
     },
-    "3": {
+    "4": {
       "Sun": "Taurus 13 52’",
       "Moon": "Scorpio 2 02’",
       "Mercury": "Aries 21 35’",
@@ -1448,7 +1508,7 @@
       "Neptune": "Aquarius 15 20’",
       "Pluto": "Sagittarius 21 49’"
     },
-    "4": {
+    "5": {
       "Sun": "Taurus 14 50’",
       "Moon": "Scorpio 16 49’",
       "Mercury": "Aries 21 54’",
@@ -1460,7 +1520,7 @@
       "Neptune": "Aquarius 15 21’",
       "Pluto": "Sagittarius 21 48’"
     },
-    "5": {
+    "6": {
       "Sun": "Taurus 15 48’",
       "Moon": "Sagittarius 1 47’",
       "Mercury": "Aries 22 17’",
@@ -1472,7 +1532,7 @@
       "Neptune": "Aquarius 15 21’",
       "Pluto": "Sagittarius 21 47’"
     },
-    "6": {
+    "7": {
       "Sun": "Taurus 16 46’",
       "Moon": "Sagittarius 16 47’",
       "Mercury": "Aries 22 44’",
@@ -1484,7 +1544,7 @@
       "Neptune": "Aquarius 15 21’",
       "Pluto": "Sagittarius 21 46’"
     },
-    "7": {
+    "8": {
       "Sun": "Taurus 17 44’",
       "Moon": "Capricorn 1 40’",
       "Mercury": "Aries 23 16’",
@@ -1496,7 +1556,7 @@
       "Neptune": "Aquarius 15 22’",
       "Pluto": "Sagittarius 21 45’"
     },
-    "8": {
+    "9": {
       "Sun": "Taurus 18 42’",
       "Moon": "Capricorn 16 21’",
       "Mercury": "Aries 23 51’",
@@ -1508,7 +1568,7 @@
       "Neptune": "Aquarius 15 22’",
       "Pluto": "Sagittarius 21 43’"
     },
-    "9": {
+    "10": {
       "Sun": "Taurus 19 40’",
       "Moon": "Aquarius 0 43’",
       "Mercury": "Aries 24 31’",
@@ -1520,7 +1580,7 @@
       "Neptune": "Aquarius 15 22’",
       "Pluto": "Sagittarius 21 42’"
     },
-    "10": {
+    "11": {
       "Sun": "Taurus 20 38’",
       "Moon": "Aquarius 14 44’",
       "Mercury": "Aries 25 14’",
@@ -1532,7 +1592,7 @@
       "Neptune": "Aquarius 15 22’",
       "Pluto": "Sagittarius 21 41’"
     },
-    "11": {
+    "12": {
       "Sun": "Taurus 21 36’",
       "Moon": "Aquarius 28 23’",
       "Mercury": "Aries 26 01’",
@@ -1544,7 +1604,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 40’"
     },
-    "12": {
+    "13": {
       "Sun": "Taurus 22 34’",
       "Moon": "Pisces 11 41’",
       "Mercury": "Aries 26 51’",
@@ -1556,7 +1616,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 38’"
     },
-    "13": {
+    "14": {
       "Sun": "Taurus 23 32’",
       "Moon": "Pisces 24 39’",
       "Mercury": "Aries 27 45’",
@@ -1568,7 +1628,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 37’"
     },
-    "14": {
+    "15": {
       "Sun": "Taurus 24 30’",
       "Moon": "Aries 7 21’",
       "Mercury": "Aries 28 42’",
@@ -1580,7 +1640,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 35’"
     },
-    "15": {
+    "16": {
       "Sun": "Taurus 25 27’",
       "Moon": "Aries 19 48’",
       "Mercury": "Aries 29 42’",
@@ -1592,7 +1652,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 34’"
     },
-    "16": {
+    "17": {
       "Sun": "Taurus 26 25’",
       "Moon": "Taurus 2 03’",
       "Mercury": "Taurus 0 45’",
@@ -1604,7 +1664,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 33’"
     },
-    "17": {
+    "18": {
       "Sun": "Taurus 27 23’",
       "Moon": "Taurus 14 09’",
       "Mercury": "Taurus 1 51’",
@@ -1616,7 +1676,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 31’"
     },
-    "18": {
+    "19": {
       "Sun": "Taurus 28 21’",
       "Moon": "Taurus 26 08’",
       "Mercury": "Taurus 2 59’",
@@ -1628,7 +1688,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 30’"
     },
-    "19": {
+    "20": {
       "Sun": "Taurus 29 19’",
       "Moon": "Gemini 8 01’",
       "Mercury": "Taurus 4 11’",
@@ -1640,7 +1700,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 28’"
     },
-    "20": {
+    "21": {
       "Sun": "Gemini 0 16’",
       "Moon": "Gemini 19 51’",
       "Mercury": "Taurus 5 25’",
@@ -1652,7 +1712,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 27’"
     },
-    "21": {
+    "22": {
       "Sun": "Gemini 1 14’",
       "Moon": "Cancer 1 41’",
       "Mercury": "Taurus 6 42’",
@@ -1664,7 +1724,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 26’"
     },
-    "22": {
+    "23": {
       "Sun": "Gemini 2 12’",
       "Moon": "Cancer 13 31’",
       "Mercury": "Taurus 8 01’",
@@ -1676,7 +1736,7 @@
       "Neptune": "Aquarius 15 23’",
       "Pluto": "Sagittarius 21 24’"
     },
-    "23": {
+    "24": {
       "Sun": "Gemini 3 09’",
       "Moon": "Cancer 25 26’",
       "Mercury": "Taurus 9 23’",
@@ -1688,7 +1748,7 @@
       "Neptune": "Aquarius 15 22’",
       "Pluto": "Sagittarius 21 23’"
     },
-    "24": {
+    "25": {
       "Sun": "Gemini 4 07’",
       "Moon": "Leo 7 28’",
       "Mercury": "Taurus 10 48’",
@@ -1700,7 +1760,7 @@
       "Neptune": "Aquarius 15 22’",
       "Pluto": "Sagittarius 21 21’"
     },
-    "25": {
+    "26": {
       "Sun": "Gemini 5 05’",
       "Moon": "Leo 19 41’",
       "Mercury": "Taurus 12 15’",
@@ -1712,7 +1772,7 @@
       "Neptune": "Aquarius 15 22’",
       "Pluto": "Sagittarius 21 20’"
     },
-    "26": {
+    "27": {
       "Sun": "Gemini 6 02’",
       "Moon": "Virgo 2 10’",
       "Mercury": "Taurus 13 45’",
@@ -1724,7 +1784,7 @@
       "Neptune": "Aquarius 15 22’",
       "Pluto": "Sagittarius 21 18’"
     },
-    "27": {
+    "28": {
       "Sun": "Gemini 7 00’",
       "Moon": "Virgo 14 57’",
       "Mercury": "Taurus 15 17’",
@@ -1736,7 +1796,7 @@
       "Neptune": "Aquarius 15 21’",
       "Pluto": "Sagittarius 21 17’"
     },
-    "28": {
+    "29": {
       "Sun": "Gemini 7 58’",
       "Moon": "Virgo 28 06’",
       "Mercury": "Taurus 16 51’",
@@ -1748,7 +1808,7 @@
       "Neptune": "Aquarius 15 21’",
       "Pluto": "Sagittarius 21 15’"
     },
-    "29": {
+    "30": {
       "Sun": "Gemini 8 55’",
       "Moon": "Libra 11 42’",
       "Mercury": "Taurus 18 28’",
@@ -1760,7 +1820,7 @@
       "Neptune": "Aquarius 15 21’",
       "Pluto": "Sagittarius 21 14’"
     },
-    "30": {
+    "31": {
       "Sun": "Gemini 9 53’",
       "Moon": "Libra 25 44’",
       "Mercury": "Taurus 20 07’",
@@ -1775,6 +1835,18 @@
   },
   "June": {
     "1": {
+      "Sun": "Gemini 10 50’",
+      "Moon": "Scorpio 10 12’",
+      "Mercury": "Taurus 21 49’",
+      "Venus": "Gemini 22 15’",
+      "Mars": "Cancer 15 35’",
+      "Jupiter": "Virgo 9 58’",
+      "Saturn": "Cancer 12 05’",
+      "Uranus": "Pisces 6 45’",
+      "Neptune": "Aquarius 15 20’",
+      "Pluto": "Sagittarius 21 10’"
+    },
+    "2": {
       "Sun": "Gemini 11 48’",
       "Moon": "Scorpio 25 03’",
       "Mercury": "Taurus 23 33’",
@@ -1786,7 +1858,7 @@
       "Neptune": "Aquarius 15 19’",
       "Pluto": "Sagittarius 21 09’"
     },
-    "2": {
+    "3": {
       "Sun": "Gemini 12 45’",
       "Moon": "Sagittarius 10 11’",
       "Mercury": "Taurus 25 19’",
@@ -1798,7 +1870,7 @@
       "Neptune": "Aquarius 15 19’",
       "Pluto": "Sagittarius 21 07’"
     },
-    "3": {
+    "4": {
       "Sun": "Gemini 13 42’",
       "Moon": "Sagittarius 25 25’",
       "Mercury": "Taurus 27 08’",
@@ -1810,7 +1882,7 @@
       "Neptune": "Aquarius 15 18’",
       "Pluto": "Sagittarius 21 06’"
     },
-    "4": {
+    "5": {
       "Sun": "Gemini 14 40’",
       "Moon": "Capricorn 10 37’",
       "Mercury": "Taurus 28 59’",
@@ -1822,7 +1894,7 @@
       "Neptune": "Aquarius 15 18’",
       "Pluto": "Sagittarius 21 04’"
     },
-    "5": {
+    "6": {
       "Sun": "Gemini 15 37’",
       "Moon": "Capricorn 25 35’",
       "Mercury": "Gemini 0 53’",
@@ -1834,7 +1906,7 @@
       "Neptune": "Aquarius 15 17’",
       "Pluto": "Sagittarius 21 03’"
     },
-    "6": {
+    "7": {
       "Sun": "Gemini 16 35’",
       "Moon": "Aquarius 10 13’",
       "Mercury": "Gemini 2 49’",
@@ -1846,7 +1918,7 @@
       "Neptune": "Aquarius 15 16’",
       "Pluto": "Sagittarius 21 01’"
     },
-    "7": {
+    "8": {
       "Sun": "Gemini 17 32’",
       "Moon": "Aquarius 24 25’",
       "Mercury": "Gemini 4 47’",
@@ -1858,7 +1930,7 @@
       "Neptune": "Aquarius 15 16’",
       "Pluto": "Sagittarius 20 59’"
     },
-    "8": {
+    "9": {
       "Sun": "Gemini 18 29’",
       "Moon": "Pisces 8 10’",
       "Mercury": "Gemini 6 47’",
@@ -1870,7 +1942,7 @@
       "Neptune": "Aquarius 15 15’",
       "Pluto": "Sagittarius 20 58’"
     },
-    "9": {
+    "10": {
       "Sun": "Gemini 19 27’",
       "Moon": "Pisces 21 27’",
       "Mercury": "Gemini 8 49’",
@@ -1882,7 +1954,7 @@
       "Neptune": "Aquarius 15 14’",
       "Pluto": "Sagittarius 20 56’"
     },
-    "10": {
+    "11": {
       "Sun": "Gemini 20 24’",
       "Moon": "Aries 4 21’",
       "Mercury": "Gemini 10 53’",
@@ -1894,7 +1966,7 @@
       "Neptune": "Aquarius 15 14’",
       "Pluto": "Sagittarius 20 55’"
     },
-    "11": {
+    "12": {
       "Sun": "Gemini 21 21’",
       "Moon": "Aries 16 54’",
       "Mercury": "Gemini 12 59’",
@@ -1906,7 +1978,7 @@
       "Neptune": "Aquarius 15 13’",
       "Pluto": "Sagittarius 20 53’"
     },
-    "12": {
+    "13": {
       "Sun": "Gemini 22 19’",
       "Moon": "Aries 29 11’",
       "Mercury": "Gemini 15 06’",
@@ -1918,7 +1990,7 @@
       "Neptune": "Aquarius 15 12’",
       "Pluto": "Sagittarius 20 51’"
     },
-    "13": {
+    "14": {
       "Sun": "Gemini 23 16’",
       "Moon": "Taurus 11 15’",
       "Mercury": "Gemini 17 15’",
@@ -1930,7 +2002,7 @@
       "Neptune": "Aquarius 15 11’",
       "Pluto": "Sagittarius 20 50’"
     },
-    "14": {
+    "15": {
       "Sun": "Gemini 24 13’",
       "Moon": "Taurus 23 12’",
       "Mercury": "Gemini 19 25’",
@@ -1942,7 +2014,7 @@
       "Neptune": "Aquarius 15 10’",
       "Pluto": "Sagittarius 20 48’"
     },
-    "15": {
+    "16": {
       "Sun": "Gemini 25 11’",
       "Moon": "Gemini 5 03’",
       "Mercury": "Gemini 21 36’",
@@ -1954,7 +2026,7 @@
       "Neptune": "Aquarius 15 10’",
       "Pluto": "Sagittarius 20 47’"
     },
-    "16": {
+    "17": {
       "Sun": "Gemini 26 08’",
       "Moon": "Gemini 16 53’",
       "Mercury": "Gemini 23 47’",
@@ -1966,7 +2038,7 @@
       "Neptune": "Aquarius 15 09’",
       "Pluto": "Sagittarius 20 45’"
     },
-    "17": {
+    "18": {
       "Sun": "Gemini 27 05’",
       "Moon": "Gemini 28 42’",
       "Mercury": "Gemini 25 59’",
@@ -1978,7 +2050,7 @@
       "Neptune": "Aquarius 15 08’",
       "Pluto": "Sagittarius 20 44’"
     },
-    "18": {
+    "19": {
       "Sun": "Gemini 28 03’",
       "Moon": "Cancer 10 33’",
       "Mercury": "Gemini 28 11’",
@@ -1990,7 +2062,7 @@
       "Neptune": "Aquarius 15 07’",
       "Pluto": "Sagittarius 20 42’"
     },
-    "19": {
+    "20": {
       "Sun": "Gemini 29 00’",
       "Moon": "Cancer 22 28’",
       "Mercury": "Cancer 0 22’",
@@ -2002,7 +2074,7 @@
       "Neptune": "Aquarius 15 06’",
       "Pluto": "Sagittarius 20 40’"
     },
-    "20": {
+    "21": {
       "Sun": "Gemini 29 57’",
       "Moon": "Leo 4 28’",
       "Mercury": "Cancer 2 34’",
@@ -2014,7 +2086,7 @@
       "Neptune": "Aquarius 15 05’",
       "Pluto": "Sagittarius 20 39’"
     },
-    "21": {
+    "22": {
       "Sun": "Cancer 0 55’",
       "Moon": "Leo 16 35’",
       "Mercury": "Cancer 4 44’",
@@ -2026,7 +2098,7 @@
       "Neptune": "Aquarius 15 04’",
       "Pluto": "Sagittarius 20 37’"
     },
-    "22": {
+    "23": {
       "Sun": "Cancer 1 52’",
       "Moon": "Leo 28 52’",
       "Mercury": "Cancer 6 53’",
@@ -2038,7 +2110,7 @@
       "Neptune": "Aquarius 15 03’",
       "Pluto": "Sagittarius 20 36’"
     },
-    "23": {
+    "24": {
       "Sun": "Cancer 2 49’",
       "Moon": "Virgo 11 22’",
       "Mercury": "Cancer 9 02’",
@@ -2050,7 +2122,7 @@
       "Neptune": "Aquarius 15 02’",
       "Pluto": "Sagittarius 20 34’"
     },
-    "24": {
+    "25": {
       "Sun": "Cancer 3 46’",
       "Moon": "Virgo 24 08’",
       "Mercury": "Cancer 11 09’",
@@ -2062,7 +2134,7 @@
       "Neptune": "Aquarius 15 00’",
       "Pluto": "Sagittarius 20 33’"
     },
-    "25": {
+    "26": {
       "Sun": "Cancer 4 43’",
       "Moon": "Libra 7 13’",
       "Mercury": "Cancer 13 14’",
@@ -2074,7 +2146,7 @@
       "Neptune": "Aquarius 14 59’",
       "Pluto": "Sagittarius 20 31’"
     },
-    "26": {
+    "27": {
       "Sun": "Cancer 5 41’",
       "Moon": "Libra 20 40’",
       "Mercury": "Cancer 15 18’",
@@ -2086,7 +2158,7 @@
       "Neptune": "Aquarius 14 58’",
       "Pluto": "Sagittarius 20 30’"
     },
-    "27": {
+    "28": {
       "Sun": "Cancer 6 38’",
       "Moon": "Scorpio 4 32’",
       "Mercury": "Cancer 17 20’",
@@ -2098,7 +2170,7 @@
       "Neptune": "Aquarius 14 57’",
       "Pluto": "Sagittarius 20 28’"
     },
-    "28": {
+    "29": {
       "Sun": "Cancer 7 35’",
       "Moon": "Scorpio 18 50’",
       "Mercury": "Cancer 19 20’",
@@ -2110,7 +2182,7 @@
       "Neptune": "Aquarius 14 56’",
       "Pluto": "Sagittarius 20 27’"
     },
-    "29": {
+    "30": {
       "Sun": "Cancer 8 32’",
       "Moon": "Sagittarius 3 33’",
       "Mercury": "Cancer 21 19’",
@@ -2125,6 +2197,18 @@
   },
   "July": {
     "1": {
+      "Sun": "Cancer 9 29’",
+      "Moon": "Sagittarius 18 34’",
+      "Mercury": "Cancer 23 15’",
+      "Venus": "Gemini 9 38’",
+      "Mars": "Leo 4 29’",
+      "Jupiter": "Virgo 13 21’",
+      "Saturn": "Cancer 15 50’",
+      "Uranus": "Pisces 6 37’",
+      "Neptune": "Aquarius 14 53’",
+      "Pluto": "Sagittarius 20 24’"
+    },
+    "2": {
       "Sun": "Cancer 10 27’",
       "Moon": "Capricorn 3 48’",
       "Mercury": "Cancer 25 09’",
@@ -2136,7 +2220,7 @@
       "Neptune": "Aquarius 14 52’",
       "Pluto": "Sagittarius 20 22’"
     },
-    "2": {
+    "3": {
       "Sun": "Cancer 11 24’",
       "Moon": "Capricorn 19 03’",
       "Mercury": "Cancer 27 02’",
@@ -2148,7 +2232,7 @@
       "Neptune": "Aquarius 14 51’",
       "Pluto": "Sagittarius 20 21’"
     },
-    "3": {
+    "4": {
       "Sun": "Cancer 12 21’",
       "Moon": "Aquarius 4 09’",
       "Mercury": "Cancer 28 52’",
@@ -2160,7 +2244,7 @@
       "Neptune": "Aquarius 14 50’",
       "Pluto": "Sagittarius 20 19’"
     },
-    "4": {
+    "5": {
       "Sun": "Cancer 13 18’",
       "Moon": "Aquarius 18 56’",
       "Mercury": "Leo 0 40’",
@@ -2172,7 +2256,7 @@
       "Neptune": "Aquarius 14 48’",
       "Pluto": "Sagittarius 20 18’"
     },
-    "5": {
+    "6": {
       "Sun": "Cancer 14 15’",
       "Moon": "Pisces 3 17’",
       "Mercury": "Leo 2 27’",
@@ -2184,7 +2268,7 @@
       "Neptune": "Aquarius 14 47’",
       "Pluto": "Sagittarius 20 16’"
     },
-    "6": {
+    "7": {
       "Sun": "Cancer 15 13’",
       "Moon": "Pisces 17 08’",
       "Mercury": "Leo 4 11’",
@@ -2196,7 +2280,7 @@
       "Neptune": "Aquarius 14 46’",
       "Pluto": "Sagittarius 20 15’"
     },
-    "7": {
+    "8": {
       "Sun": "Cancer 16 10’",
       "Moon": "Aries 0 31’",
       "Mercury": "Leo 5 53’",
@@ -2208,7 +2292,7 @@
       "Neptune": "Aquarius 14 44’",
       "Pluto": "Sagittarius 20 13’"
     },
-    "8": {
+    "9": {
       "Sun": "Cancer 17 07’",
       "Moon": "Aries 13 26’",
       "Mercury": "Leo 7 33’",
@@ -2220,7 +2304,7 @@
       "Neptune": "Aquarius 14 43’",
       "Pluto": "Sagittarius 20 12’"
     },
-    "9": {
+    "10": {
       "Sun": "Cancer 18 04’",
       "Moon": "Aries 25 58’",
       "Mercury": "Leo 9 11’",
@@ -2232,7 +2316,7 @@
       "Neptune": "Aquarius 14 41’",
       "Pluto": "Sagittarius 20 11’"
     },
-    "10": {
+    "11": {
       "Sun": "Cancer 19 01’",
       "Moon": "Taurus 8 12’",
       "Mercury": "Leo 10 47’",
@@ -2244,7 +2328,7 @@
       "Neptune": "Aquarius 14 40’",
       "Pluto": "Sagittarius 20 09’"
     },
-    "11": {
+    "12": {
       "Sun": "Cancer 19 59’",
       "Moon": "Taurus 20 13’",
       "Mercury": "Leo 12 21’",
@@ -2256,7 +2340,7 @@
       "Neptune": "Aquarius 14 39’",
       "Pluto": "Sagittarius 20 08’"
     },
-    "12": {
+    "13": {
       "Sun": "Cancer 20 56’",
       "Moon": "Gemini 2 05’",
       "Mercury": "Leo 13 53’",
@@ -2268,7 +2352,7 @@
       "Neptune": "Aquarius 14 37’",
       "Pluto": "Sagittarius 20 07’"
     },
-    "13": {
+    "14": {
       "Sun": "Cancer 21 53’",
       "Moon": "Gemini 13 54’",
       "Mercury": "Leo 15 23’",
@@ -2280,7 +2364,7 @@
       "Neptune": "Aquarius 14 36’",
       "Pluto": "Sagittarius 20 05’"
     },
-    "14": {
+    "15": {
       "Sun": "Cancer 22 50’",
       "Moon": "Gemini 25 43’",
       "Mercury": "Leo 16 50’",
@@ -2292,7 +2376,7 @@
       "Neptune": "Aquarius 14 34’",
       "Pluto": "Sagittarius 20 04’"
     },
-    "15": {
+    "16": {
       "Sun": "Cancer 23 48’",
       "Moon": "Cancer 7 34’",
       "Mercury": "Leo 18 16’",
@@ -2304,7 +2388,7 @@
       "Neptune": "Aquarius 14 33’",
       "Pluto": "Sagittarius 20 03’"
     },
-    "16": {
+    "17": {
       "Sun": "Cancer 24 45’",
       "Moon": "Cancer 19 30’",
       "Mercury": "Leo 19 39’",
@@ -2316,7 +2400,7 @@
       "Neptune": "Aquarius 14 31’",
       "Pluto": "Sagittarius 20 02’"
     },
-    "17": {
+    "18": {
       "Sun": "Cancer 25 42’",
       "Moon": "Leo 1 32’",
       "Mercury": "Leo 21 01’",
@@ -2328,7 +2412,7 @@
       "Neptune": "Aquarius 14 30’",
       "Pluto": "Sagittarius 20 00’"
     },
-    "18": {
+    "19": {
       "Sun": "Cancer 26 39’",
       "Moon": "Leo 13 42’",
       "Mercury": "Leo 22 20’",
@@ -2340,7 +2424,7 @@
       "Neptune": "Aquarius 14 28’",
       "Pluto": "Sagittarius 19 59’"
     },
-    "19": {
+    "20": {
       "Sun": "Cancer 27 37’",
       "Moon": "Leo 26 00’",
       "Mercury": "Leo 23 36’",
@@ -2352,7 +2436,7 @@
       "Neptune": "Aquarius 14 27’",
       "Pluto": "Sagittarius 19 58’"
     },
-    "20": {
+    "21": {
       "Sun": "Cancer 28 34’",
       "Moon": "Virgo 8 27’",
       "Mercury": "Leo 24 51’",
@@ -2364,7 +2448,7 @@
       "Neptune": "Aquarius 14 25’",
       "Pluto": "Sagittarius 19 57’"
     },
-    "21": {
+    "22": {
       "Sun": "Cancer 29 31’",
       "Moon": "Virgo 21 06’",
       "Mercury": "Leo 26 03’",
@@ -2376,7 +2460,7 @@
       "Neptune": "Aquarius 14 23’",
       "Pluto": "Sagittarius 19 56’"
     },
-    "22": {
+    "23": {
       "Sun": "Leo 0 29’",
       "Moon": "Libra 3 57’",
       "Mercury": "Leo 27 12’",
@@ -2388,7 +2472,7 @@
       "Neptune": "Aquarius 14 22’",
       "Pluto": "Sagittarius 19 55’"
     },
-    "23": {
+    "24": {
       "Sun": "Leo 1 26’",
       "Moon": "Libra 17 04’",
       "Mercury": "Leo 28 19’",
@@ -2400,7 +2484,7 @@
       "Neptune": "Aquarius 14 20’",
       "Pluto": "Sagittarius 19 54’"
     },
-    "24": {
+    "25": {
       "Sun": "Leo 2 23’",
       "Moon": "Scorpio 0 29’",
       "Mercury": "Leo 29 23’",
@@ -2412,7 +2496,7 @@
       "Neptune": "Aquarius 14 19’",
       "Pluto": "Sagittarius 19 53’"
     },
-    "25": {
+    "26": {
       "Sun": "Leo 3 20’",
       "Moon": "Scorpio 14 13’",
       "Mercury": "Virgo 0 25’",
@@ -2424,7 +2508,7 @@
       "Neptune": "Aquarius 14 17’",
       "Pluto": "Sagittarius 19 51’"
     },
-    "26": {
+    "27": {
       "Sun": "Leo 4 18’",
       "Moon": "Scorpio 28 19’",
       "Mercury": "Virgo 1 24’",
@@ -2436,7 +2520,7 @@
       "Neptune": "Aquarius 14 16’",
       "Pluto": "Sagittarius 19 50’"
     },
-    "27": {
+    "28": {
       "Sun": "Leo 5 15’",
       "Moon": "Sagittarius 12 47’",
       "Mercury": "Virgo 2 19’",
@@ -2448,7 +2532,7 @@
       "Neptune": "Aquarius 14 14’",
       "Pluto": "Sagittarius 19 49’"
     },
-    "28": {
+    "29": {
       "Sun": "Leo 6 12’",
       "Moon": "Sagittarius 27 32’",
       "Mercury": "Virgo 3 12’",
@@ -2460,7 +2544,7 @@
       "Neptune": "Aquarius 14 12’",
       "Pluto": "Sagittarius 19 49’"
     },
-    "29": {
+    "30": {
       "Sun": "Leo 7 10’",
       "Moon": "Capricorn 12 30’",
       "Mercury": "Virgo 4 02’",
@@ -2472,7 +2556,7 @@
       "Neptune": "Aquarius 14 11’",
       "Pluto": "Sagittarius 19 48’"
     },
-    "30": {
+    "31": {
       "Sun": "Leo 8 07’",
       "Moon": "Capricorn 27 33’",
       "Mercury": "Virgo 4 48’",
@@ -2487,6 +2571,18 @@
   },
   "August": {
     "1": {
+      "Sun": "Leo 9 05’",
+      "Moon": "Aquarius 12 31’",
+      "Mercury": "Virgo 5 30’",
+      "Venus": "Gemini 24 37’",
+      "Mars": "Leo 24 02’",
+      "Jupiter": "Virgo 18 33’",
+      "Saturn": "Cancer 19 49’",
+      "Uranus": "Pisces 5 49’",
+      "Neptune": "Aquarius 14 08’",
+      "Pluto": "Sagittarius 19 46’"
+    },
+    "2": {
       "Sun": "Leo 10 02’",
       "Moon": "Aquarius 27 14’",
       "Mercury": "Virgo 6 09’",
@@ -2498,7 +2594,7 @@
       "Neptune": "Aquarius 14 06’",
       "Pluto": "Sagittarius 19 45’"
     },
-    "2": {
+    "3": {
       "Sun": "Leo 10 59’",
       "Moon": "Pisces 11 34’",
       "Mercury": "Virgo 6 44’",
@@ -2510,7 +2606,7 @@
       "Neptune": "Aquarius 14 04’",
       "Pluto": "Sagittarius 19 44’"
     },
-    "3": {
+    "4": {
       "Sun": "Leo 11 57’",
       "Moon": "Pisces 25 28’",
       "Mercury": "Virgo 7 15’",
@@ -2522,7 +2618,7 @@
       "Neptune": "Aquarius 14 03’",
       "Pluto": "Sagittarius 19 43’"
     },
-    "4": {
+    "5": {
       "Sun": "Leo 12 54’",
       "Moon": "Aries 8 54’",
       "Mercury": "Virgo 7 42’",
@@ -2534,7 +2630,7 @@
       "Neptune": "Aquarius 14 01’",
       "Pluto": "Sagittarius 19 42’"
     },
-    "5": {
+    "6": {
       "Sun": "Leo 13 52’",
       "Moon": "Aries 21 52’",
       "Mercury": "Virgo 8 05’",
@@ -2546,7 +2642,7 @@
       "Neptune": "Aquarius 13 59’",
       "Pluto": "Sagittarius 19 42’"
     },
-    "6": {
+    "7": {
       "Sun": "Leo 14 49’",
       "Moon": "Taurus 4 27’",
       "Mercury": "Virgo 8 22’",
@@ -2558,7 +2654,7 @@
       "Neptune": "Aquarius 13 58’",
       "Pluto": "Sagittarius 19 41’"
     },
-    "7": {
+    "8": {
       "Sun": "Leo 15 47’",
       "Moon": "Taurus 16 42’",
       "Mercury": "Virgo 8 35’",
@@ -2570,7 +2666,7 @@
       "Neptune": "Aquarius 13 56’",
       "Pluto": "Sagittarius 19 40’"
     },
-    "8": {
+    "9": {
       "Sun": "Leo 16 44’",
       "Moon": "Taurus 28 44’",
       "Mercury": "Virgo 8 43’",
@@ -2582,7 +2678,7 @@
       "Neptune": "Aquarius 13 54’",
       "Pluto": "Sagittarius 19 40’"
     },
-    "9": {
+    "10": {
       "Sun": "Leo 17 42’",
       "Moon": "Gemini 10 37’",
       "Mercury": "Virgo 8 46’",
@@ -2594,7 +2690,7 @@
       "Neptune": "Aquarius 13 53’",
       "Pluto": "Sagittarius 19 39’"
     },
-    "10": {
+    "11": {
       "Sun": "Leo 18 39’",
       "Moon": "Gemini 22 26’",
       "Mercury": "Virgo 8 43’",
@@ -2606,7 +2702,7 @@
       "Neptune": "Aquarius 13 51’",
       "Pluto": "Sagittarius 19 38’"
     },
-    "11": {
+    "12": {
       "Sun": "Leo 19 37’",
       "Moon": "Cancer 4 16’",
       "Mercury": "Virgo 8 35’",
@@ -2618,7 +2714,7 @@
       "Neptune": "Aquarius 13 50’",
       "Pluto": "Sagittarius 19 38’"
     },
-    "12": {
+    "13": {
       "Sun": "Leo 20 34’",
       "Moon": "Cancer 16 11’",
       "Mercury": "Virgo 8 22’",
@@ -2630,7 +2726,7 @@
       "Neptune": "Aquarius 13 48’",
       "Pluto": "Sagittarius 19 37’"
     },
-    "13": {
+    "14": {
       "Sun": "Leo 21 32’",
       "Moon": "Cancer 28 14’",
       "Mercury": "Virgo 8 03’",
@@ -2642,7 +2738,7 @@
       "Neptune": "Aquarius 13 46’",
       "Pluto": "Sagittarius 19 37’"
     },
-    "14": {
+    "15": {
       "Sun": "Leo 22 30’",
       "Moon": "Leo 10 25’",
       "Mercury": "Virgo 7 39’",
@@ -2654,7 +2750,7 @@
       "Neptune": "Aquarius 13 45’",
       "Pluto": "Sagittarius 19 36’"
     },
-    "15": {
+    "16": {
       "Sun": "Leo 23 27’",
       "Moon": "Leo 22 47’",
       "Mercury": "Virgo 7 09’",
@@ -2666,7 +2762,7 @@
       "Neptune": "Aquarius 13 43’",
       "Pluto": "Sagittarius 19 36’"
     },
-    "16": {
+    "17": {
       "Sun": "Leo 24 25’",
       "Moon": "Virgo 5 20’",
       "Mercury": "Virgo 6 34’",
@@ -2678,7 +2774,7 @@
       "Neptune": "Aquarius 13 42’",
       "Pluto": "Sagittarius 19 35’"
     },
-    "17": {
+    "18": {
       "Sun": "Leo 25 23’",
       "Moon": "Virgo 18 04’",
       "Mercury": "Virgo 5 55’",
@@ -2690,7 +2786,7 @@
       "Neptune": "Aquarius 13 40’",
       "Pluto": "Sagittarius 19 35’"
     },
-    "18": {
+    "19": {
       "Sun": "Leo 26 21’",
       "Moon": "Libra 1 00’",
       "Mercury": "Virgo 5 11’",
@@ -2702,7 +2798,7 @@
       "Neptune": "Aquarius 13 38’",
       "Pluto": "Sagittarius 19 34’"
     },
-    "19": {
+    "20": {
       "Sun": "Leo 27 18’",
       "Moon": "Libra 14 06’",
       "Mercury": "Virgo 4 24’",
@@ -2714,7 +2810,7 @@
       "Neptune": "Aquarius 13 37’",
       "Pluto": "Sagittarius 19 34’"
     },
-    "20": {
+    "21": {
       "Sun": "Leo 28 16’",
       "Moon": "Libra 27 25’",
       "Mercury": "Virgo 3 34’",
@@ -2726,7 +2822,7 @@
       "Neptune": "Aquarius 13 35’",
       "Pluto": "Sagittarius 19 34’"
     },
-    "21": {
+    "22": {
       "Sun": "Leo 29 14’",
       "Moon": "Scorpio 10 56’",
       "Mercury": "Virgo 2 42’",
@@ -2738,7 +2834,7 @@
       "Neptune": "Aquarius 13 34’",
       "Pluto": "Sagittarius 19 33’"
     },
-    "22": {
+    "23": {
       "Sun": "Virgo 0 12’",
       "Moon": "Scorpio 24 41’",
       "Mercury": "Virgo 1 48’",
@@ -2750,7 +2846,7 @@
       "Neptune": "Aquarius 13 32’",
       "Pluto": "Sagittarius 19 33’"
     },
-    "23": {
+    "24": {
       "Sun": "Virgo 1 10’",
       "Moon": "Sagittarius 8 41’",
       "Mercury": "Virgo 0 55’",
@@ -2762,7 +2858,7 @@
       "Neptune": "Aquarius 13 31’",
       "Pluto": "Sagittarius 19 33’"
     },
-    "24": {
+    "25": {
       "Sun": "Virgo 2 08’",
       "Moon": "Sagittarius 22 56’",
       "Mercury": "Virgo 0 03’",
@@ -2774,7 +2870,7 @@
       "Neptune": "Aquarius 13 29’",
       "Pluto": "Sagittarius 19 33’"
     },
-    "25": {
+    "26": {
       "Sun": "Virgo 3 05’",
       "Moon": "Capricorn 7 22’",
       "Mercury": "Leo 29 13’",
@@ -2786,7 +2882,7 @@
       "Neptune": "Aquarius 13 27’",
       "Pluto": "Sagittarius 19 32’"
     },
-    "26": {
+    "27": {
       "Sun": "Virgo 4 03’",
       "Moon": "Capricorn 21 58’",
       "Mercury": "Leo 28 26’",
@@ -2798,7 +2894,7 @@
       "Neptune": "Aquarius 13 26’",
       "Pluto": "Sagittarius 19 32’"
     },
-    "27": {
+    "28": {
       "Sun": "Virgo 5 01’",
       "Moon": "Aquarius 6 38’",
       "Mercury": "Leo 27 43’",
@@ -2810,7 +2906,7 @@
       "Neptune": "Aquarius 13 24’",
       "Pluto": "Sagittarius 19 32’"
     },
-    "28": {
+    "29": {
       "Sun": "Virgo 5 59’",
       "Moon": "Aquarius 21 13’",
       "Mercury": "Leo 27 06’",
@@ -2822,7 +2918,7 @@
       "Neptune": "Aquarius 13 23’",
       "Pluto": "Sagittarius 19 32’"
     },
-    "29": {
+    "30": {
       "Sun": "Virgo 6 57’",
       "Moon": "Pisces 5 38’",
       "Mercury": "Leo 26 35’",
@@ -2834,7 +2930,7 @@
       "Neptune": "Aquarius 13 22’",
       "Pluto": "Sagittarius 19 32’"
     },
-    "30": {
+    "31": {
       "Sun": "Virgo 7 55’",
       "Moon": "Pisces 19 46’",
       "Mercury": "Leo 26 10’",
@@ -2849,6 +2945,18 @@
   },
   "September": {
     "1": {
+      "Sun": "Virgo 8 53’",
+      "Moon": "Aries 3 32’",
+      "Mercury": "Leo 25 54’",
+      "Venus": "Cancer 23 43’",
+      "Mars": "Virgo 13 42’",
+      "Jupiter": "Virgo 24 48’",
+      "Saturn": "Cancer 23 24’",
+      "Uranus": "Pisces 4 38’",
+      "Neptune": "Aquarius 13 19’",
+      "Pluto": "Sagittarius 19 32’"
+    },
+    "2": {
       "Sun": "Virgo 9 51’",
       "Moon": "Aries 16 54’",
       "Mercury": "Leo 25 45’",
@@ -2860,7 +2968,7 @@
       "Neptune": "Aquarius 13 17’",
       "Pluto": "Sagittarius 19 32’"
     },
-    "2": {
+    "3": {
       "Sun": "Virgo 10 49’",
       "Moon": "Aries 29 51’",
       "Mercury": "Leo 25 45’",
@@ -2872,7 +2980,7 @@
       "Neptune": "Aquarius 13 16’",
       "Pluto": "Sagittarius 19 32’"
     },
-    "3": {
+    "4": {
       "Sun": "Virgo 11 47’",
       "Moon": "Taurus 12 27’",
       "Mercury": "Leo 25 53’",
@@ -2884,7 +2992,7 @@
       "Neptune": "Aquarius 13 14’",
       "Pluto": "Sagittarius 19 32’"
     },
-    "4": {
+    "5": {
       "Sun": "Virgo 12 46’",
       "Moon": "Taurus 24 44’",
       "Mercury": "Leo 26 10’",
@@ -2896,7 +3004,7 @@
       "Neptune": "Aquarius 13 13’",
       "Pluto": "Sagittarius 19 33’"
     },
-    "5": {
+    "6": {
       "Sun": "Virgo 13 44’",
       "Moon": "Gemini 6 48’",
       "Mercury": "Leo 26 35’",
@@ -2908,7 +3016,7 @@
       "Neptune": "Aquarius 13 12’",
       "Pluto": "Sagittarius 19 33’"
     },
-    "6": {
+    "7": {
       "Sun": "Virgo 14 42’",
       "Moon": "Gemini 18 43’",
       "Mercury": "Leo 27 09’",
@@ -2920,7 +3028,7 @@
       "Neptune": "Aquarius 13 10’",
       "Pluto": "Sagittarius 19 33’"
     },
-    "7": {
+    "8": {
       "Sun": "Virgo 15 40’",
       "Moon": "Cancer 0 34’",
       "Mercury": "Leo 27 51’",
@@ -2932,7 +3040,7 @@
       "Neptune": "Aquarius 13 09’",
       "Pluto": "Sagittarius 19 33’"
     },
-    "8": {
+    "9": {
       "Sun": "Virgo 16 39’",
       "Moon": "Cancer 12 26’",
       "Mercury": "Leo 28 42’",
@@ -2944,7 +3052,7 @@
       "Neptune": "Aquarius 13 08’",
       "Pluto": "Sagittarius 19 33’"
     },
-    "9": {
+    "10": {
       "Sun": "Virgo 17 37’",
       "Moon": "Cancer 24 25’",
       "Mercury": "Leo 29 40’",
@@ -2956,7 +3064,7 @@
       "Neptune": "Aquarius 13 06’",
       "Pluto": "Sagittarius 19 34’"
     },
-    "10": {
+    "11": {
       "Sun": "Virgo 18 35’",
       "Moon": "Leo 6 32’",
       "Mercury": "Virgo 0 45’",
@@ -2968,7 +3076,7 @@
       "Neptune": "Aquarius 13 05’",
       "Pluto": "Sagittarius 19 34’"
     },
-    "11": {
+    "12": {
       "Sun": "Virgo 19 34’",
       "Moon": "Leo 18 52’",
       "Mercury": "Virgo 1 56’",
@@ -2980,7 +3088,7 @@
       "Neptune": "Aquarius 13 04’",
       "Pluto": "Sagittarius 19 35’"
     },
-    "12": {
+    "13": {
       "Sun": "Virgo 20 32’",
       "Moon": "Virgo 1 26’",
       "Mercury": "Virgo 3 14’",
@@ -2992,7 +3100,7 @@
       "Neptune": "Aquarius 13 03’",
       "Pluto": "Sagittarius 19 35’"
     },
-    "13": {
+    "14": {
       "Sun": "Virgo 21 30’",
       "Moon": "Virgo 14 15’",
       "Mercury": "Virgo 4 37’",
@@ -3004,7 +3112,7 @@
       "Neptune": "Aquarius 13 01’",
       "Pluto": "Sagittarius 19 35’"
     },
-    "14": {
+    "15": {
       "Sun": "Virgo 22 29’",
       "Moon": "Virgo 27 18’",
       "Mercury": "Virgo 6 06’",
@@ -3016,7 +3124,7 @@
       "Neptune": "Aquarius 13 00’",
       "Pluto": "Sagittarius 19 36’"
     },
-    "15": {
+    "16": {
       "Sun": "Virgo 23 27’",
       "Moon": "Libra 10 35’",
       "Mercury": "Virgo 7 39’",
@@ -3028,7 +3136,7 @@
       "Neptune": "Aquarius 12 59’",
       "Pluto": "Sagittarius 19 36’"
     },
-    "16": {
+    "17": {
       "Sun": "Virgo 24 26’",
       "Moon": "Libra 24 05’",
       "Mercury": "Virgo 9 15’",
@@ -3040,7 +3148,7 @@
       "Neptune": "Aquarius 12 58’",
       "Pluto": "Sagittarius 19 37’"
     },
-    "17": {
+    "18": {
       "Sun": "Virgo 25 25’",
       "Moon": "Scorpio 7 45’",
       "Mercury": "Virgo 10 55’",
@@ -3052,7 +3160,7 @@
       "Neptune": "Aquarius 12 57’",
       "Pluto": "Sagittarius 19 37’"
     },
-    "18": {
+    "19": {
       "Sun": "Virgo 26 23’",
       "Moon": "Scorpio 21 35’",
       "Mercury": "Virgo 12 37’",
@@ -3064,7 +3172,7 @@
       "Neptune": "Aquarius 12 56’",
       "Pluto": "Sagittarius 19 38’"
     },
-    "19": {
+    "20": {
       "Sun": "Virgo 27 22’",
       "Moon": "Sagittarius 5 32’",
       "Mercury": "Virgo 14 22’",
@@ -3076,7 +3184,7 @@
       "Neptune": "Aquarius 12 55’",
       "Pluto": "Sagittarius 19 39’"
     },
-    "20": {
+    "21": {
       "Sun": "Virgo 28 20’",
       "Moon": "Sagittarius 19 37’",
       "Mercury": "Virgo 16 08’",
@@ -3088,7 +3196,7 @@
       "Neptune": "Aquarius 12 54’",
       "Pluto": "Sagittarius 19 39’"
     },
-    "21": {
+    "22": {
       "Sun": "Virgo 29 19’",
       "Moon": "Capricorn 3 47’",
       "Mercury": "Virgo 17 56’",
@@ -3100,7 +3208,7 @@
       "Neptune": "Aquarius 12 53’",
       "Pluto": "Sagittarius 19 40’"
     },
-    "22": {
+    "23": {
       "Sun": "Libra 0 18’",
       "Moon": "Capricorn 18 01’",
       "Mercury": "Virgo 19 45’",
@@ -3112,7 +3220,7 @@
       "Neptune": "Aquarius 12 52’",
       "Pluto": "Sagittarius 19 41’"
     },
-    "23": {
+    "24": {
       "Sun": "Libra 1 17’",
       "Moon": "Aquarius 2 16’",
       "Mercury": "Virgo 21 35’",
@@ -3124,7 +3232,7 @@
       "Neptune": "Aquarius 12 51’",
       "Pluto": "Sagittarius 19 42’"
     },
-    "24": {
+    "25": {
       "Sun": "Libra 2 15’",
       "Moon": "Aquarius 16 30’",
       "Mercury": "Virgo 23 25’",
@@ -3136,7 +3244,7 @@
       "Neptune": "Aquarius 12 50’",
       "Pluto": "Sagittarius 19 42’"
     },
-    "25": {
+    "26": {
       "Sun": "Libra 3 14’",
       "Moon": "Pisces 0 37’",
       "Mercury": "Virgo 25 15’",
@@ -3148,7 +3256,7 @@
       "Neptune": "Aquarius 12 49’",
       "Pluto": "Sagittarius 19 43’"
     },
-    "26": {
+    "27": {
       "Sun": "Libra 4 13’",
       "Moon": "Pisces 14 35’",
       "Mercury": "Virgo 27 05’",
@@ -3160,7 +3268,7 @@
       "Neptune": "Aquarius 12 48’",
       "Pluto": "Sagittarius 19 44’"
     },
-    "27": {
+    "28": {
       "Sun": "Libra 5 12’",
       "Moon": "Pisces 28 19’",
       "Mercury": "Virgo 28 55’",
@@ -3172,7 +3280,7 @@
       "Neptune": "Aquarius 12 47’",
       "Pluto": "Sagittarius 19 45’"
     },
-    "28": {
+    "29": {
       "Sun": "Libra 6 11’",
       "Moon": "Aries 11 47’",
       "Mercury": "Libra 0 44’",
@@ -3184,7 +3292,7 @@
       "Neptune": "Aquarius 12 46’",
       "Pluto": "Sagittarius 19 46’"
     },
-    "29": {
+    "30": {
       "Sun": "Libra 7 10’",
       "Moon": "Aries 24 56’",
       "Mercury": "Libra 2 33’",
@@ -3199,6 +3307,18 @@
   },
   "October": {
     "1": {
+      "Sun": "Libra 8 09’",
+      "Moon": "Taurus 7 46’",
+      "Mercury": "Libra 4 22’",
+      "Venus": "Leo 26 51’",
+      "Mars": "Libra 2 58’",
+      "Jupiter": "Libra 1 15’",
+      "Saturn": "Cancer 26 01’",
+      "Uranus": "Pisces 3 33’",
+      "Neptune": "Aquarius 12 45’",
+      "Pluto": "Sagittarius 19 48’"
+    },
+    "2": {
       "Sun": "Libra 9 08’",
       "Moon": "Taurus 20 18’",
       "Mercury": "Libra 6 10’",
@@ -3210,7 +3330,7 @@
       "Neptune": "Aquarius 12 44’",
       "Pluto": "Sagittarius 19 49’"
     },
-    "2": {
+    "3": {
       "Sun": "Libra 10 07’",
       "Moon": "Gemini 2 34’",
       "Mercury": "Libra 7 57’",
@@ -3222,7 +3342,7 @@
       "Neptune": "Aquarius 12 43’",
       "Pluto": "Sagittarius 19 50’"
     },
-    "3": {
+    "4": {
       "Sun": "Libra 11 06’",
       "Moon": "Gemini 14 39’",
       "Mercury": "Libra 9 44’",
@@ -3234,7 +3354,7 @@
       "Neptune": "Aquarius 12 43’",
       "Pluto": "Sagittarius 19 51’"
     },
-    "4": {
+    "5": {
       "Sun": "Libra 12 05’",
       "Moon": "Gemini 26 34’",
       "Mercury": "Libra 11 29’",
@@ -3246,7 +3366,7 @@
       "Neptune": "Aquarius 12 42’",
       "Pluto": "Sagittarius 19 52’"
     },
-    "5": {
+    "6": {
       "Sun": "Libra 13 04’",
       "Moon": "Cancer 8 27’",
       "Mercury": "Libra 13 14’",
@@ -3258,7 +3378,7 @@
       "Neptune": "Aquarius 12 42’",
       "Pluto": "Sagittarius 19 53’"
     },
-    "6": {
+    "7": {
       "Sun": "Libra 14 03’",
       "Moon": "Cancer 20 20’",
       "Mercury": "Libra 14 59’",
@@ -3270,7 +3390,7 @@
       "Neptune": "Aquarius 12 41’",
       "Pluto": "Sagittarius 19 54’"
     },
-    "7": {
+    "8": {
       "Sun": "Libra 15 02’",
       "Moon": "Leo 2 19’",
       "Mercury": "Libra 16 42’",
@@ -3282,7 +3402,7 @@
       "Neptune": "Aquarius 12 40’",
       "Pluto": "Sagittarius 19 56’"
     },
-    "8": {
+    "9": {
       "Sun": "Libra 16 02’",
       "Moon": "Leo 14 28’",
       "Mercury": "Libra 18 25’",
@@ -3294,7 +3414,7 @@
       "Neptune": "Aquarius 12 40’",
       "Pluto": "Sagittarius 19 57’"
     },
-    "9": {
+    "10": {
       "Sun": "Libra 17 01’",
       "Moon": "Leo 26 51’",
       "Mercury": "Libra 20 07’",
@@ -3306,7 +3426,7 @@
       "Neptune": "Aquarius 12 39’",
       "Pluto": "Sagittarius 19 58’"
     },
-    "10": {
+    "11": {
       "Sun": "Libra 18 00’",
       "Moon": "Virgo 9 31’",
       "Mercury": "Libra 21 48’",
@@ -3318,7 +3438,7 @@
       "Neptune": "Aquarius 12 39’",
       "Pluto": "Sagittarius 19 59’"
     },
-    "11": {
+    "12": {
       "Sun": "Libra 19 00’",
       "Moon": "Virgo 22 31’",
       "Mercury": "Libra 23 29’",
@@ -3330,7 +3450,7 @@
       "Neptune": "Aquarius 12 38’",
       "Pluto": "Sagittarius 20 01’"
     },
-    "12": {
+    "13": {
       "Sun": "Libra 19 59’",
       "Moon": "Libra 5 51’",
       "Mercury": "Libra 25 09’",
@@ -3342,7 +3462,7 @@
       "Neptune": "Aquarius 12 38’",
       "Pluto": "Sagittarius 20 02’"
     },
-    "13": {
+    "14": {
       "Sun": "Libra 20 59’",
       "Moon": "Libra 19 29’",
       "Mercury": "Libra 26 48’",
@@ -3354,7 +3474,7 @@
       "Neptune": "Aquarius 12 38’",
       "Pluto": "Sagittarius 20 03’"
     },
-    "14": {
+    "15": {
       "Sun": "Libra 21 58’",
       "Moon": "Scorpio 3 24’",
       "Mercury": "Libra 28 26’",
@@ -3366,7 +3486,7 @@
       "Neptune": "Aquarius 12 37’",
       "Pluto": "Sagittarius 20 05’"
     },
-    "15": {
+    "16": {
       "Sun": "Libra 22 58’",
       "Moon": "Scorpio 17 31’",
       "Mercury": "Scorpio 0 04’",
@@ -3378,7 +3498,7 @@
       "Neptune": "Aquarius 12 37’",
       "Pluto": "Sagittarius 20 06’"
     },
-    "16": {
+    "17": {
       "Sun": "Libra 23 57’",
       "Moon": "Sagittarius 1 48’",
       "Mercury": "Scorpio 1 41’",
@@ -3390,7 +3510,7 @@
       "Neptune": "Aquarius 12 37’",
       "Pluto": "Sagittarius 20 08’"
     },
-    "17": {
+    "18": {
       "Sun": "Libra 24 57’",
       "Moon": "Sagittarius 16 10’",
       "Mercury": "Scorpio 3 17’",
@@ -3402,7 +3522,7 @@
       "Neptune": "Aquarius 12 37’",
       "Pluto": "Sagittarius 20 09’"
     },
-    "18": {
+    "19": {
       "Sun": "Libra 25 56’",
       "Moon": "Capricorn 0 31’",
       "Mercury": "Scorpio 4 53’",
@@ -3414,7 +3534,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 10’"
     },
-    "19": {
+    "20": {
       "Sun": "Libra 26 56’",
       "Moon": "Capricorn 14 50’",
       "Mercury": "Scorpio 6 28’",
@@ -3426,7 +3546,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 12’"
     },
-    "20": {
+    "21": {
       "Sun": "Libra 27 56’",
       "Moon": "Capricorn 29 02’",
       "Mercury": "Scorpio 8 02’",
@@ -3438,7 +3558,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 14’"
     },
-    "21": {
+    "22": {
       "Sun": "Libra 28 55’",
       "Moon": "Aquarius 13 06’",
       "Mercury": "Scorpio 9 36’",
@@ -3450,7 +3570,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 15’"
     },
-    "22": {
+    "23": {
       "Sun": "Libra 29 55’",
       "Moon": "Aquarius 27 00’",
       "Mercury": "Scorpio 11 10’",
@@ -3462,7 +3582,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 17’"
     },
-    "23": {
+    "24": {
       "Sun": "Scorpio 0 55’",
       "Moon": "Pisces 10 42’",
       "Mercury": "Scorpio 12 42’",
@@ -3474,7 +3594,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 18’"
     },
-    "24": {
+    "25": {
       "Sun": "Scorpio 1 55’",
       "Moon": "Pisces 24 12’",
       "Mercury": "Scorpio 14 15’",
@@ -3486,7 +3606,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 20’"
     },
-    "25": {
+    "26": {
       "Sun": "Scorpio 2 54’",
       "Moon": "Aries 7 29’",
       "Mercury": "Scorpio 15 46’",
@@ -3498,7 +3618,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 22’"
     },
-    "26": {
+    "27": {
       "Sun": "Scorpio 3 54’",
       "Moon": "Aries 20 33’",
       "Mercury": "Scorpio 17 17’",
@@ -3510,7 +3630,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 23’"
     },
-    "27": {
+    "28": {
       "Sun": "Scorpio 4 54’",
       "Moon": "Taurus 3 23’",
       "Mercury": "Scorpio 18 48’",
@@ -3522,7 +3642,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 25’"
     },
-    "28": {
+    "29": {
       "Sun": "Scorpio 5 54’",
       "Moon": "Taurus 15 59’",
       "Mercury": "Scorpio 20 18’",
@@ -3534,7 +3654,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 27’"
     },
-    "29": {
+    "30": {
       "Sun": "Scorpio 6 54’",
       "Moon": "Taurus 28 22’",
       "Mercury": "Scorpio 21 47’",
@@ -3546,7 +3666,7 @@
       "Neptune": "Aquarius 12 36’",
       "Pluto": "Sagittarius 20 28’"
     },
-    "30": {
+    "31": {
       "Sun": "Scorpio 7 54’",
       "Moon": "Gemini 10 33’",
       "Mercury": "Scorpio 23 16’",
@@ -3561,6 +3681,18 @@
   },
   "November": {
     "1": {
+      "Sun": "Scorpio 8 54’",
+      "Moon": "Gemini 22 35’",
+      "Mercury": "Scorpio 24 45’",
+      "Venus": "Libra 3 35’",
+      "Mars": "Libra 23 14’",
+      "Jupiter": "Libra 7 45’",
+      "Saturn": "Cancer 27 17’",
+      "Uranus": "Pisces 2 55’",
+      "Neptune": "Aquarius 12 37’",
+      "Pluto": "Sagittarius 20 32’"
+    },
+    "2": {
       "Sun": "Scorpio 9 54’",
       "Moon": "Cancer 4 31’",
       "Mercury": "Scorpio 26 13’",
@@ -3572,7 +3704,7 @@
       "Neptune": "Aquarius 12 37’",
       "Pluto": "Sagittarius 20 34’"
     },
-    "2": {
+    "3": {
       "Sun": "Scorpio 10 54’",
       "Moon": "Cancer 16 22’",
       "Mercury": "Scorpio 27 40’",
@@ -3584,7 +3716,7 @@
       "Neptune": "Aquarius 12 37’",
       "Pluto": "Sagittarius 20 36’"
     },
-    "3": {
+    "4": {
       "Sun": "Scorpio 11 54’",
       "Moon": "Cancer 28 14’",
       "Mercury": "Scorpio 29 07’",
@@ -3596,7 +3728,7 @@
       "Neptune": "Aquarius 12 38’",
       "Pluto": "Sagittarius 20 38’"
     },
-    "4": {
+    "5": {
       "Sun": "Scorpio 12 54’",
       "Moon": "Leo 10 12’",
       "Mercury": "Sagittarius 0 33’",
@@ -3608,7 +3740,7 @@
       "Neptune": "Aquarius 12 38’",
       "Pluto": "Sagittarius 20 39’"
     },
-    "5": {
+    "6": {
       "Sun": "Scorpio 13 54’",
       "Moon": "Leo 22 18’",
       "Mercury": "Sagittarius 1 58’",
@@ -3620,7 +3752,7 @@
       "Neptune": "Aquarius 12 39’",
       "Pluto": "Sagittarius 20 41’"
     },
-    "6": {
+    "7": {
       "Sun": "Scorpio 14 55’",
       "Moon": "Virgo 4 39’",
       "Mercury": "Sagittarius 3 23’",
@@ -3632,7 +3764,7 @@
       "Neptune": "Aquarius 12 39’",
       "Pluto": "Sagittarius 20 43’"
     },
-    "7": {
+    "8": {
       "Sun": "Scorpio 15 55’",
       "Moon": "Virgo 17 19’",
       "Mercury": "Sagittarius 4 47’",
@@ -3644,7 +3776,7 @@
       "Neptune": "Aquarius 12 39’",
       "Pluto": "Sagittarius 20 45’"
     },
-    "8": {
+    "9": {
       "Sun": "Scorpio 16 55’",
       "Moon": "Libra 0 20’",
       "Mercury": "Sagittarius 6 10’",
@@ -3656,7 +3788,7 @@
       "Neptune": "Aquarius 12 40’",
       "Pluto": "Sagittarius 20 47’"
     },
-    "9": {
+    "10": {
       "Sun": "Scorpio 17 55’",
       "Moon": "Libra 13 45’",
       "Mercury": "Sagittarius 7 33’",
@@ -3668,7 +3800,7 @@
       "Neptune": "Aquarius 12 41’",
       "Pluto": "Sagittarius 20 49’"
     },
-    "10": {
+    "11": {
       "Sun": "Scorpio 18 56’",
       "Moon": "Libra 27 36’",
       "Mercury": "Sagittarius 8 54’",
@@ -3680,7 +3812,7 @@
       "Neptune": "Aquarius 12 41’",
       "Pluto": "Sagittarius 20 51’"
     },
-    "11": {
+    "12": {
       "Sun": "Scorpio 19 56’",
       "Moon": "Scorpio 11 49’",
       "Mercury": "Sagittarius 10 15’",
@@ -3692,7 +3824,7 @@
       "Neptune": "Aquarius 12 42’",
       "Pluto": "Sagittarius 20 53’"
     },
-    "12": {
+    "13": {
       "Sun": "Scorpio 20 56’",
       "Moon": "Scorpio 26 21’",
       "Mercury": "Sagittarius 11 34’",
@@ -3704,7 +3836,7 @@
       "Neptune": "Aquarius 12 42’",
       "Pluto": "Sagittarius 20 55’"
     },
-    "13": {
+    "14": {
       "Sun": "Scorpio 21 57’",
       "Moon": "Sagittarius 11 06’",
       "Mercury": "Sagittarius 12 52’",
@@ -3716,7 +3848,7 @@
       "Neptune": "Aquarius 12 43’",
       "Pluto": "Sagittarius 20 57’"
     },
-    "14": {
+    "15": {
       "Sun": "Scorpio 22 57’",
       "Moon": "Sagittarius 25 57’",
       "Mercury": "Sagittarius 14 08’",
@@ -3728,7 +3860,7 @@
       "Neptune": "Aquarius 12 44’",
       "Pluto": "Sagittarius 20 59’"
     },
-    "15": {
+    "16": {
       "Sun": "Scorpio 23 58’",
       "Moon": "Capricorn 10 45’",
       "Mercury": "Sagittarius 15 23’",
@@ -3740,7 +3872,7 @@
       "Neptune": "Aquarius 12 45’",
       "Pluto": "Sagittarius 21 01’"
     },
-    "16": {
+    "17": {
       "Sun": "Scorpio 24 58’",
       "Moon": "Capricorn 25 23’",
       "Mercury": "Sagittarius 16 36’",
@@ -3752,7 +3884,7 @@
       "Neptune": "Aquarius 12 45’",
       "Pluto": "Sagittarius 21 03’"
     },
-    "17": {
+    "18": {
       "Sun": "Scorpio 25 59’",
       "Moon": "Aquarius 9 46’",
       "Mercury": "Sagittarius 17 46’",
@@ -3764,7 +3896,7 @@
       "Neptune": "Aquarius 12 46’",
       "Pluto": "Sagittarius 21 05’"
     },
-    "18": {
+    "19": {
       "Sun": "Scorpio 26 59’",
       "Moon": "Aquarius 23 51’",
       "Mercury": "Sagittarius 18 55’",
@@ -3776,7 +3908,7 @@
       "Neptune": "Aquarius 12 47’",
       "Pluto": "Sagittarius 21 07’"
     },
-    "19": {
+    "20": {
       "Sun": "Scorpio 28 00’",
       "Moon": "Pisces 7 37’",
       "Mercury": "Sagittarius 20 01’",
@@ -3788,7 +3920,7 @@
       "Neptune": "Aquarius 12 48’",
       "Pluto": "Sagittarius 21 10’"
     },
-    "20": {
+    "21": {
       "Sun": "Scorpio 29 01’",
       "Moon": "Pisces 21 05’",
       "Mercury": "Sagittarius 21 03’",
@@ -3800,7 +3932,7 @@
       "Neptune": "Aquarius 12 49’",
       "Pluto": "Sagittarius 21 12’"
     },
-    "21": {
+    "22": {
       "Sun": "Sagittarius 0 01’",
       "Moon": "Aries 4 15’",
       "Mercury": "Sagittarius 22 03’",
@@ -3812,7 +3944,7 @@
       "Neptune": "Aquarius 12 50’",
       "Pluto": "Sagittarius 21 14’"
     },
-    "22": {
+    "23": {
       "Sun": "Sagittarius 1 02’",
       "Moon": "Aries 17 10’",
       "Mercury": "Sagittarius 22 58’",
@@ -3824,7 +3956,7 @@
       "Neptune": "Aquarius 12 51’",
       "Pluto": "Sagittarius 21 16’"
     },
-    "23": {
+    "24": {
       "Sun": "Sagittarius 2 02’",
       "Moon": "Aries 29 51’",
       "Mercury": "Sagittarius 23 49’",
@@ -3836,7 +3968,7 @@
       "Neptune": "Aquarius 12 52’",
       "Pluto": "Sagittarius 21 18’"
     },
-    "24": {
+    "25": {
       "Sun": "Sagittarius 3 03’",
       "Moon": "Taurus 12 21’",
       "Mercury": "Sagittarius 24 34’",
@@ -3848,7 +3980,7 @@
       "Neptune": "Aquarius 12 53’",
       "Pluto": "Sagittarius 21 20’"
     },
-    "25": {
+    "26": {
       "Sun": "Sagittarius 4 04’",
       "Moon": "Taurus 24 41’",
       "Mercury": "Sagittarius 25 15’",
@@ -3860,7 +3992,7 @@
       "Neptune": "Aquarius 12 54’",
       "Pluto": "Sagittarius 21 22’"
     },
-    "26": {
+    "27": {
       "Sun": "Sagittarius 5 04’",
       "Moon": "Gemini 6 52’",
       "Mercury": "Sagittarius 25 48’",
@@ -3872,7 +4004,7 @@
       "Neptune": "Aquarius 12 55’",
       "Pluto": "Sagittarius 21 25’"
     },
-    "27": {
+    "28": {
       "Sun": "Sagittarius 6 05’",
       "Moon": "Gemini 18 56’",
       "Mercury": "Sagittarius 26 15’",
@@ -3884,7 +4016,7 @@
       "Neptune": "Aquarius 12 56’",
       "Pluto": "Sagittarius 21 27’"
     },
-    "28": {
+    "29": {
       "Sun": "Sagittarius 7 06’",
       "Moon": "Cancer 0 54’",
       "Mercury": "Sagittarius 26 33’",
@@ -3896,7 +4028,7 @@
       "Neptune": "Aquarius 12 57’",
       "Pluto": "Sagittarius 21 29’"
     },
-    "29": {
+    "30": {
       "Sun": "Sagittarius 8 07’",
       "Moon": "Cancer 12 47’",
       "Mercury": "Sagittarius 26 43’",
@@ -3911,6 +4043,18 @@
   },
   "December": {
     "1": {
+      "Sun": "Sagittarius 9 07’",
+      "Moon": "Cancer 24 39’",
+      "Mercury": "Sagittarius 26 43’",
+      "Venus": "Scorpio 10 26’",
+      "Mars": "Scorpio 13 14’",
+      "Jupiter": "Libra 13 14’",
+      "Saturn": "Cancer 26 52’",
+      "Uranus": "Pisces 3 01’",
+      "Neptune": "Aquarius 13 00’",
+      "Pluto": "Sagittarius 21 33’"
+    },
+    "2": {
       "Sun": "Sagittarius 10 08’",
       "Moon": "Leo 6 30’",
       "Mercury": "Sagittarius 26 33’",
@@ -3922,7 +4066,7 @@
       "Neptune": "Aquarius 13 01’",
       "Pluto": "Sagittarius 21 36’"
     },
-    "2": {
+    "3": {
       "Sun": "Sagittarius 11 09’",
       "Moon": "Leo 18 26’",
       "Mercury": "Sagittarius 26 12’",
@@ -3934,7 +4078,7 @@
       "Neptune": "Aquarius 13 02’",
       "Pluto": "Sagittarius 21 38’"
     },
-    "3": {
+    "4": {
       "Sun": "Sagittarius 12 10’",
       "Moon": "Virgo 0 30’",
       "Mercury": "Sagittarius 25 39’",
@@ -3946,7 +4090,7 @@
       "Neptune": "Aquarius 13 03’",
       "Pluto": "Sagittarius 21 40’"
     },
-    "4": {
+    "5": {
       "Sun": "Sagittarius 13 11’",
       "Moon": "Virgo 12 46’",
       "Mercury": "Sagittarius 24 56’",
@@ -3958,7 +4102,7 @@
       "Neptune": "Aquarius 13 05’",
       "Pluto": "Sagittarius 21 42’"
     },
-    "5": {
+    "6": {
       "Sun": "Sagittarius 14 12’",
       "Moon": "Virgo 25 19’",
       "Mercury": "Sagittarius 24 02’",
@@ -3970,7 +4114,7 @@
       "Neptune": "Aquarius 13 06’",
       "Pluto": "Sagittarius 21 45’"
     },
-    "6": {
+    "7": {
       "Sun": "Sagittarius 15 13’",
       "Moon": "Libra 8 14’",
       "Mercury": "Sagittarius 22 58’",
@@ -3982,7 +4126,7 @@
       "Neptune": "Aquarius 13 07’",
       "Pluto": "Sagittarius 21 47’"
     },
-    "7": {
+    "8": {
       "Sun": "Sagittarius 16 14’",
       "Moon": "Libra 21 34’",
       "Mercury": "Sagittarius 21 46’",
@@ -3994,7 +4138,7 @@
       "Neptune": "Aquarius 13 09’",
       "Pluto": "Sagittarius 21 49’"
     },
-    "8": {
+    "9": {
       "Sun": "Sagittarius 17 15’",
       "Moon": "Scorpio 5 23’",
       "Mercury": "Sagittarius 20 28’",
@@ -4006,7 +4150,7 @@
       "Neptune": "Aquarius 13 10’",
       "Pluto": "Sagittarius 21 51’"
     },
-    "9": {
+    "10": {
       "Sun": "Sagittarius 18 16’",
       "Moon": "Scorpio 19 40’",
       "Mercury": "Sagittarius 19 06’",
@@ -4018,7 +4162,7 @@
       "Neptune": "Aquarius 13 12’",
       "Pluto": "Sagittarius 21 54’"
     },
-    "10": {
+    "11": {
       "Sun": "Sagittarius 19 17’",
       "Moon": "Sagittarius 4 23’",
       "Mercury": "Sagittarius 17 43’",
@@ -4030,7 +4174,7 @@
       "Neptune": "Aquarius 13 13’",
       "Pluto": "Sagittarius 21 56’"
     },
-    "11": {
+    "12": {
       "Sun": "Sagittarius 20 18’",
       "Moon": "Sagittarius 19 25’",
       "Mercury": "Sagittarius 16 22’",
@@ -4042,7 +4186,7 @@
       "Neptune": "Aquarius 13 15’",
       "Pluto": "Sagittarius 21 58’"
     },
-    "12": {
+    "13": {
       "Sun": "Sagittarius 21 19’",
       "Moon": "Capricorn 4 38’",
       "Mercury": "Sagittarius 15 05’",
@@ -4054,7 +4198,7 @@
       "Neptune": "Aquarius 13 16’",
       "Pluto": "Sagittarius 22 00’"
     },
-    "13": {
+    "14": {
       "Sun": "Sagittarius 22 20’",
       "Moon": "Capricorn 19 50’",
       "Mercury": "Sagittarius 13 55’",
@@ -4066,7 +4210,7 @@
       "Neptune": "Aquarius 13 18’",
       "Pluto": "Sagittarius 22 03’"
     },
-    "14": {
+    "15": {
       "Sun": "Sagittarius 23 21’",
       "Moon": "Aquarius 4 52’",
       "Mercury": "Sagittarius 12 54’",
@@ -4078,7 +4222,7 @@
       "Neptune": "Aquarius 13 20’",
       "Pluto": "Sagittarius 22 05’"
     },
-    "15": {
+    "16": {
       "Sun": "Sagittarius 24 22’",
       "Moon": "Aquarius 19 35’",
       "Mercury": "Sagittarius 12 03’",
@@ -4090,7 +4234,7 @@
       "Neptune": "Aquarius 13 21’",
       "Pluto": "Sagittarius 22 07’"
     },
-    "16": {
+    "17": {
       "Sun": "Sagittarius 25 23’",
       "Moon": "Pisces 3 53’",
       "Mercury": "Sagittarius 11 22’",
@@ -4102,7 +4246,7 @@
       "Neptune": "Aquarius 13 23’",
       "Pluto": "Sagittarius 22 10’"
     },
-    "17": {
+    "18": {
       "Sun": "Sagittarius 26 24’",
       "Moon": "Pisces 17 44’",
       "Mercury": "Sagittarius 10 53’",
@@ -4114,7 +4258,7 @@
       "Neptune": "Aquarius 13 25’",
       "Pluto": "Sagittarius 22 12’"
     },
-    "18": {
+    "19": {
       "Sun": "Sagittarius 27 25’",
       "Moon": "Aries 1 10’",
       "Mercury": "Sagittarius 10 35’",
@@ -4126,7 +4270,7 @@
       "Neptune": "Aquarius 13 26’",
       "Pluto": "Sagittarius 22 14’"
     },
-    "19": {
+    "20": {
       "Sun": "Sagittarius 28 26’",
       "Moon": "Aries 14 13’",
       "Mercury": "Sagittarius 10 27’",
@@ -4138,7 +4282,7 @@
       "Neptune": "Aquarius 13 28’",
       "Pluto": "Sagittarius 22 16’"
     },
-    "20": {
+    "21": {
       "Sun": "Sagittarius 29 27’",
       "Moon": "Aries 26 55’",
       "Mercury": "Sagittarius 10 29’",
@@ -4150,7 +4294,7 @@
       "Neptune": "Aquarius 13 30’",
       "Pluto": "Sagittarius 22 19’"
     },
-    "21": {
+    "22": {
       "Sun": "Capricorn 0 28’",
       "Moon": "Taurus 9 23’",
       "Mercury": "Sagittarius 10 41’",
@@ -4162,7 +4306,7 @@
       "Neptune": "Aquarius 13 31’",
       "Pluto": "Sagittarius 22 21’"
     },
-    "22": {
+    "23": {
       "Sun": "Capricorn 1 29’",
       "Moon": "Taurus 21 38’",
       "Mercury": "Sagittarius 11 01’",
@@ -4174,7 +4318,7 @@
       "Neptune": "Aquarius 13 33’",
       "Pluto": "Sagittarius 22 23’"
     },
-    "23": {
+    "24": {
       "Sun": "Capricorn 2 30’",
       "Moon": "Gemini 3 45’",
       "Mercury": "Sagittarius 11 28’",
@@ -4186,7 +4330,7 @@
       "Neptune": "Aquarius 13 35’",
       "Pluto": "Sagittarius 22 25’"
     },
-    "24": {
+    "25": {
       "Sun": "Capricorn 3 32’",
       "Moon": "Gemini 15 45’",
       "Mercury": "Sagittarius 12 03’",
@@ -4198,7 +4342,7 @@
       "Neptune": "Aquarius 13 37’",
       "Pluto": "Sagittarius 22 27’"
     },
-    "25": {
+    "26": {
       "Sun": "Capricorn 4 33’",
       "Moon": "Gemini 27 42’",
       "Mercury": "Sagittarius 12 43’",
@@ -4210,7 +4354,7 @@
       "Neptune": "Aquarius 13 39’",
       "Pluto": "Sagittarius 22 30’"
     },
-    "26": {
+    "27": {
       "Sun": "Capricorn 5 34’",
       "Moon": "Cancer 9 35’",
       "Mercury": "Sagittarius 13 30’",
@@ -4222,7 +4366,7 @@
       "Neptune": "Aquarius 13 41’",
       "Pluto": "Sagittarius 22 32’"
     },
-    "27": {
+    "28": {
       "Sun": "Capricorn 6 35’",
       "Moon": "Cancer 21 28’",
       "Mercury": "Sagittarius 14 21’",
@@ -4234,7 +4378,7 @@
       "Neptune": "Aquarius 13 43’",
       "Pluto": "Sagittarius 22 34’"
     },
-    "28": {
+    "29": {
       "Sun": "Capricorn 7 36’",
       "Moon": "Leo 3 20’",
       "Mercury": "Sagittarius 15 16’",
@@ -4246,7 +4390,7 @@
       "Neptune": "Aquarius 13 44’",
       "Pluto": "Sagittarius 22 36’"
     },
-    "29": {
+    "30": {
       "Sun": "Capricorn 8 37’",
       "Moon": "Leo 15 15’",
       "Mercury": "Sagittarius 16 15’",
@@ -4258,7 +4402,7 @@
       "Neptune": "Aquarius 13 46’",
       "Pluto": "Sagittarius 22 39’"
     },
-    "30": {
+    "31": {
       "Sun": "Capricorn 9 38’",
       "Moon": "Leo 27 13’",
       "Mercury": "Sagittarius 17 18’",
