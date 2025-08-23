@@ -70,7 +70,7 @@ def main():
     today = datetime.date.today()
     target_year = today.year + 1
     print(f"Target year: {target_year}")
-    out_path = os.path.join(OUT_DIR, f\"{target_year}_ephemeris_with_signs.json\")
+    out_path = os.path.join(OUT_DIR, f"{target_year}_ephemeris_with_signs.json")
     if os.path.exists(out_path):
         print(f\"✅ {out_path} already exists. Nothing to do.\"); return
     data = build_year(target_year)
