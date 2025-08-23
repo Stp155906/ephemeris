@@ -4,12 +4,23 @@
 Generates the NEXT year's ephemeris JSON (00:00 UT snapshot) and saves as:
   ephemeris/YYYY_ephemeris_with_signs.json
 Skips creation if the file already exists.
+
+Optimized for GitHub Actions:
+- Shorter per-request timeout
+- Single retry
+- Smaller sleep between months
 """
+
 import os, re, json, time, calendar, datetime
 import requests
 from bs4 import BeautifulSoup
 
 OUT_DIR = "ephemeris"
+
+# Tunables for speed/stability
+TIMEOUT_SECS = 10          # was 25
+RETRIES      = 1           # was 3
+SLEEP_BETWEEN_MONTHS = 0.25  # was 1.0
 
 PLANET_ABBRS = ["SU", "MO", "ME", "VE", "MA", "JU", "SA", "UR", "NE", "PL"]
 PLANET_MAP = {
@@ -35,22 +46,26 @@ def extract_day_num(tr):
 def fetch_month(month, year):
     month_name = calendar.month_name[month]
     url = f"https://horoscopes.astro-seek.com/astrology-ephemeris-{month_name.lower()}-{year}"
+    print(f"  🔄 {month_name} {year} ...", flush=True)
 
-    # light retry
-    for attempt in range(3):
+    last_err = None
+    for attempt in range(RETRIES + 1):
         try:
-            res = requests.get(url, headers=HEADERS, timeout=25); res.raise_for_status()
+            res = requests.get(url, headers=HEADERS, timeout=TIMEOUT_SECS)
+            res.raise_for_status()
             soup = BeautifulSoup(res.text, "html.parser")
             table = soup.find("table")
             if not table:
-                print(f"  ⚠️ Table not found for {month_name} {year}")
+                print(f"    ⚠️ Table not found for {month_name} {year}")
                 return None
             break
         except Exception as e:
-            if attempt == 2:
-                print(f"  ❌ Failed {month_name} {year}: {e}")
-                return None
-            time.sleep(1.5*(attempt+1))
+            last_err = e
+            if attempt < RETRIES:
+                time.sleep(0.8)  # brief backoff
+                continue
+            print(f"    ❌ Failed {month_name} {year}: {e}")
+            return None
 
     month_data = {}
     for tr in table.find_all("tr"):
@@ -73,7 +88,7 @@ def fetch_month(month, year):
         month_data[str(day_num)] = daily
 
     if not month_data:
-        print(f"  ⚠️ No rows parsed for {month_name} {year}")
+        print(f"    ⚠️ No rows parsed for {month_name} {year}")
         return None
 
     sorted_items = sorted(((int(k), v) for k, v in month_data.items()), key=lambda kv: kv[0])
@@ -81,22 +96,21 @@ def fetch_month(month, year):
 
 def build_year(year):
     year_data = {}
-    print(f"📅 Building year: {year}")
+    print(f"📅 Building year: {year}", flush=True)
     for m in range(1, 13):
-        print(f"  🔄 {calendar.month_name[m]} {year} ...")
         r = fetch_month(m, year)
         if not r:
             continue
         mn, md = r
         year_data[mn] = md
-        time.sleep(1.0)  # be polite
+        time.sleep(SLEEP_BETWEEN_MONTHS)
     return year_data
 
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
     today = datetime.date.today()
     target_year = today.year + 1
-    print(f"Target year: {target_year}")
+    print(f"Target year: {target_year}", flush=True)
 
     out_path = os.path.join(OUT_DIR, f"{target_year}_ephemeris_with_signs.json")
     if os.path.exists(out_path):
